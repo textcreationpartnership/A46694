@@ -1,0 +1,3000 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tragical history, admirable atchievments and various events of Guy Earl of Warwick a tragedy acted very frequently with great applause by his late Majesties servants / written by B.J.</title>
+            <title>Guy of Warwick (Romance)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46694</idno>
+            <idno type="STC">Wing J5</idno>
+            <idno type="STC">ESTC R15562</idno>
+            <idno type="EEBO-CITATION">12209397</idno>
+            <idno type="OCLC">ocm 12209397</idno>
+            <idno type="VID">56229</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56229)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tragical history, admirable atchievments and various events of Guy Earl of Warwick a tragedy acted very frequently with great applause by his late Majesties servants / written by B.J.</title>
+                  <title>Guy of Warwick (Romance)</title>
+                  <author>B. J.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>First edition.</edition>
+               </editionStmt>
+               <extent>[47] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vere and William Gilbertson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page appears to be holograph copy of original t.p.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Guy, --  Earl of Warwick.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56229:1"/>
+            <pb facs="tcp:56229:1" rendition="simple:additions"/>
+            <p>THE Tragical Hiſtory, Admirable Atchievments and various events OF GUY EARL OF WARWICK A TRAGEDY Acted very Frequently with great Applauſe By his late MAJESTIES Servants.</p>
+            <p>Written by B.J.</p>
+            <q>Car<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iere vel noli noſtra vel ede tua, <bibl>
+                  <hi>Mart Epig.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>First Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Vere</hi> and <hi>William Gilbertſon</hi> without <hi>Newgate,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:56229:2"/>
+            <pb facs="tcp:56229:2"/>
+            <head>THE Tragical Hiſtory OF GUY EARLE of <hi>WARWICK.</hi>
+            </head>
+            <div n="1" type="act">
+               <head>Actus Primus.</head>
+               <stage>Enter <hi>Time</hi>
+               </stage>
+               <sp>
+                  <speaker>
+                     <seg rend="decorInit">T</seg>IME</speaker>
+                  <l>
+                     <hi>that is paſt, the Muſes now recalls,</hi>
+                  </l>
+                  <l>
+                     <hi>forcing my fleeting preſence to retire,</hi>
+                  </l>
+                  <l>
+                     <hi>and pitch my feet upon the Engliſh ſhore,</hi>
+                  </l>
+                  <l>
+                     <hi>I had almoſt drown'd in black oblivion,</hi>
+                  </l>
+                  <l>
+                     <hi>an honour'd Hiſtory of an Engliſh Knight,</hi>
+                  </l>
+                  <l>
+                     <hi>as Famous once for deeds of Chivalry,</hi>
+                  </l>
+                  <l>
+                     <hi>as any of the Worthies of the world:</hi>
+                  </l>
+                  <l>
+                     <hi>Renowned Sir</hi> Guy <hi>of</hi> Warwick <hi>whoſe great Name,</hi>
+                  </l>
+                  <l>
+                     <hi>makes</hi> England <hi>famous in all after times,</hi>
+                  </l>
+                  <l>
+                     <hi>for nurſing up ſo brave a Martialliſt.</hi>
+                  </l>
+                  <pb facs="tcp:56229:3"/>
+                  <l>Time <hi>now renues his fortines, to the world,</hi>
+                  </l>
+                  <l>
+                     <hi>and layes them open to your Gentle Views;</hi>
+                  </l>
+                  <l>
+                     <hi>think then with apprehenſive eyes yo ſee</hi>
+                  </l>
+                  <l>
+                     <hi>this warlike Lord boldly attempt to fight,</hi>
+                  </l>
+                  <l>
+                     <hi>with that fell ſauage Bore of</hi> Calledon</l>
+                  <l>
+                     <hi>that ſpoiles the fields and murders paſſengers,</hi>
+                  </l>
+                  <l>
+                     <hi>him hath his ſword ſubdu'd; and now again,</hi>
+                  </l>
+                  <l>
+                     <hi>he combates with that huge and monſtrous beaſt,</hi>
+                  </l>
+                  <l>
+                     <hi>call'd the wild Cow of</hi> Dunſmore <hi>Heath;</hi>
+                  </l>
+                  <l>
+                     <hi>all for the love of</hi> Phillis <hi>he performs</hi>
+                  </l>
+                  <l>
+                     <hi>for</hi> Phillis <hi>love, old</hi> Rohons <hi>only Child,</hi>
+                  </l>
+                  <l>
+                     <hi>what will not</hi> Guy <hi>of</hi> Warwick <hi>dare to do?</hi>
+                  </l>
+                  <l>
+                     <hi>and having done thoſe things that ſhe enjoyn'd,</hi>
+                  </l>
+                  <l>
+                     <hi>he reaps the harveſt of her happy love,</hi>
+                  </l>
+                  <l>
+                     <hi>and at the length enjoyes her for his wife.</hi>
+                  </l>
+                  <l>
+                     <hi>To grace this bridal feaſt, imagine then,</hi>
+                  </l>
+                  <l>
+                     <hi>King</hi> Athelſtone <hi>hath left fair</hi> Wincheſter</l>
+                  <l>
+                     <hi>and here in</hi> Warwick <hi>Caſtle keeps his Court.</hi>
+                  </l>
+                  <l>
+                     <hi>VVhat follows now of</hi> Guy <hi>and his fair Deeds,</hi>
+                  </l>
+                  <l>
+                     <hi>ſit and behold, the ſtory now proceeds.</hi>
+                  </l>
+                  <stage>
+                     <hi>Exit</hi> Time.</stage>
+               </sp>
+               <stage>Enter King <hi>Athelſtone, Guy, Phillis, Rohon, He<g ref="char:EOLhyphen"/>rod,</hi> with others.</stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Brave <hi>Guy</hi> of <hi>Warwick,</hi> honourable Earl.</l>
+                  <l>thus long in love and favour to thy ſelf</l>
+                  <l>King <hi>Athelſtone</hi> hath left fair <hi>Wincheſter,</hi>
+                  </l>
+                  <l>to frolick here with thee and thy fair Bride;</l>
+                  <l>
+                     <hi>Phillis</hi> the comfort of old <hi>Rohons</hi> Age</l>
+                  <l>thus long to you we have been troubleſome,</l>
+                  <l>and uſed your Parkes and Paſtures as our own;</l>
+                  <l>but now wee'l leave theſe parts of <hi>Warwickſhire</hi>
+                  </l>
+                  <l>and back again return to <hi>Wincheſter.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Theſe Kingly favours that your grace hath ſhown,</l>
+                  <l>in honouring me a worthleſſe Subject thus,</l>
+                  <l>hath plum'd my thoughts with Eagle-flighted wings,</l>
+                  <l>and beares my mounting minde as high as Heaven;</l>
+                  <pb facs="tcp:56229:3"/>
+                  <l>till I have done ſome deeds of Chivalry</l>
+                  <l>Worthy the love of your Dread Majeſty:</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Which il'e perform with treble diligence,</l>
+                  <l>and at your yearly Feaſt of Pentecoſt</l>
+                  <l>will <hi>Guy</hi> of <hi>Warwick</hi> ſend a hundred Knights,</l>
+                  <l>ſuddue'd and conquer'd by theſe Warlike Armes,</l>
+                  <l>to do their Homage to King <hi>Athelſtone,</hi>
+                  </l>
+                  <l>lowly upon their knees at <hi>Winoheſter.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>We thank thee <hi>Guy,</hi> but will not have it ſo,</l>
+                  <l>live with thy love, thy ſword hath won thee Fame,</l>
+                  <l>and all the world doth ſpeak of <hi>Warwicks</hi> Name.</l>
+               </sp>
+               <sp>
+                  <speaker>Herod.</speaker>
+                  <l>The conqueſts that by thee hath been Atchiev'd,</l>
+                  <l>makes men amaz'd, and warlike Knights affraid</l>
+                  <l>to come in danger of thy Conquering Sword.</l>
+               </sp>
+               <sp>
+                  <speaker>Lord.</speaker>
+                  <l>Thy manly deeds are Graven in each mans breaſt,</l>
+                  <l>and thy large fame is ſpread from Eaſt to Weſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Rohon.</speaker>
+                  <l>Live then in peace, my fair high-hearted Sonne,</l>
+                  <l>ſince all men muſe to think what thou haſt done,</l>
+                  <l>the <hi>Calledonian</hi> ſavage Bore is dead,</l>
+                  <l>and by thy hand the wild Cow ſlaughtred,</l>
+                  <l>that kept ſuch Revels upon <hi>Dunſmore</hi> Heath;</l>
+                  <l>and many adventures haſt thou paſt beſide</l>
+                  <l>to make my Daughter <hi>Phillis</hi> thy fair Bride:</l>
+                  <l>ſhe now is thine, and all that I poſſeſſe,</l>
+                  <l>is <hi>Guy</hi> of <hi>Warwicks</hi> ſo hee'l ſtay with us.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>Intends my honoured Lord to leave us then,</l>
+                  <l>ſpeak gentle love, my heart is full of fear;</l>
+                  <l>O ſeek not danger, that is every where.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Content thee <hi>Phillis</hi> for he ſhall not go,</l>
+                  <l>thy love intreats but we command him ſo,</l>
+                  <l>And now Earl <hi>Rohon,</hi> reach the King thy hand;</l>
+                  <l>Old man we thank thee and we take our leave;</l>
+                  <l>Farewell Sir <hi>Guy,</hi> fair <hi>Phillis</hi> now adieu,</l>
+                  <l>all earthly comfort ſtill attend on you.</l>
+                  <stage>Exit King.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Bright Angels ſtill protect your Majeſty,</l>
+                  <l>Father conduct the King a little on his way,</l>
+                  <stage>Exit Rohon and Herod.</stage>
+                  <l>Sir <hi>Herod</hi> attend them, <hi>Phillis</hi> here, and I,</l>
+                  <l>muſt yet confer, wee'l follow preſently.</l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:4"/>
+                  <speaker>Phillis.</speaker>
+                  <l>What means my honour'd Lord to ſtay behind,</l>
+                  <l>when every one attends his Soveraign;</l>
+                  <l>why doſt thou look ſo ſad and ſtand ſo mute?</l>
+                  <l>all looking downwards with thy care-craz'd head:</l>
+                  <l>ſpeak gentle love, if griefe thy mind oppreſſe,</l>
+                  <l>
+                     <hi>Phillis</hi> will never leave thee comfortleſſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Ah <hi>Phillis!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>Sweet: what hath <hi>Phillis</hi> done</l>
+                  <l>that thy great heart ſhould grieve to think upon?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Nothing, O nothing, and I now to thee,</l>
+                  <l>neither the fear of death, the loſſe of friends,</l>
+                  <l>nor any thing this mortal life can yield,</l>
+                  <l>doth trouble me or once moleſt my mind.</l>
+               </sp>
+               <sp>
+                  <speaker>Phill.</speaker>
+                  <p>What then diſturbs thy high heroick Thoughts?</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>That I muſt leave my <hi>Phillis</hi> whom I love;</l>
+                  <l>O be not ſad dear ſoul, but hear me ſpeak;</l>
+                  <l>for what I ſay muſt ſtand irrevocable.</l>
+                  <l>Seven years to win thy love this Sword of mine,</l>
+                  <l>hath beat down Monſters, and ſubdued ſtrong Knights;</l>
+                  <l>ſeven years to win thy love this breaſt of mine,</l>
+                  <l>hath bin oppos'd even againſt the face of death:</l>
+                  <l>But for my God who gave me power and ſtrength</l>
+                  <l>to doe theſe wonders in the ſight of man,</l>
+                  <l>hath <hi>Guy</hi> of <hi>Warwicke</hi> yet no ſervice done,</l>
+                  <l>the thought of which torments my inward ſoul;</l>
+                  <l>and breaks my heart untill I have redeem'd</l>
+                  <l>my great neglect of ſervice to my God;</l>
+                  <l>For which to him alone I have made a Vow,</l>
+                  <l>never to lie by my fair <hi>Phillis</hi> ſide,</l>
+                  <l>to eat, to drink, nor reſt long in one place,</l>
+                  <l>till I have ſeen my Saviours Sepulchre,</l>
+                  <l>within the Walls of fair <hi>Jeruſalem;</hi>
+                  </l>
+                  <l>and with my Sword for my Redeemers ſake,</l>
+                  <l>beat back thoſe misbelieving <hi>Saracens,</hi>
+                  </l>
+                  <l>that ſeek the Ruine of that holy place,</l>
+                  <l>making them leave deluding <hi>Mahomet,</hi>
+                  </l>
+                  <l>and truſt upon the bleſſed Name of <hi>Chriſt.</hi>
+                  </l>
+                  <l>All this hath <hi>Warwicke</hi> ſworn to undertake,</l>
+                  <pb facs="tcp:56229:4"/>
+                  <l>or looſe his Life for his Redeemers ſake.</l>
+               </sp>
+               <sp>
+                  <speaker>Phill.</speaker>
+                  <p>Sweet Lord!</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>O do not bid me ſtay,</l>
+                  <l>and ask me what thou wilt, I muſt away!</l>
+               </sp>
+               <sp>
+                  <speaker>Phill.</speaker>
+                  <l>See the rich burthen of my youthful womb,</l>
+                  <l>the hopeful iſſue of thy happy love;</l>
+                  <l>let that yet move thee, dear Lord do not go,</l>
+                  <l>leſt both of us do pine with grief and woe.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Weep not ſweet love; for tears will not avail;</l>
+                  <l>but when the time comes thou art brought on bed,</l>
+                  <l>and of thy child art ſafe delivered:</l>
+                  <l>Give it to <hi>Herod</hi> if it be a a ſon,</l>
+                  <l>with it deliver him this Ring of Gold;</l>
+                  <l>tell him that I intreat him from my heart</l>
+                  <l>that he will ſee my Infant well brought up;</l>
+                  <l>bid him be kind to him, as I have been,</l>
+                  <l>in all Adventures dangerous to him.</l>
+                  <l>Now give me my Palmers Gown, my Hat and Staff,</l>
+                  <l>theſe muſt I wear, fly hence all worldly pomp;</l>
+                  <l>thus for my Saviour and Redeemer's ſake</l>
+                  <l>theſe bleſſed Weeds of Pilgrimage I take.</l>
+               </sp>
+               <sp>
+                  <speaker>Phill.</speaker>
+                  <l>My hearts ſo ſad I know not what to ſay,</l>
+                  <l>God grant thy Grave be not that Gown of gray;</l>
+                  <l>My much miſdoubting heart ſayes I ſhall ſee,</l>
+                  <l>my high loved Lord laid low in miſery.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Do not preſage, dear love, but here me ſpeak,</l>
+                  <l>I charge thee on that love thou bearſt to me,</l>
+                  <l>never to reveal to Father, Friend, no nor the King himſelf,</l>
+                  <l>what I intend nor whither I am gone;</l>
+                  <l>until a month be paſt and I hence free;</l>
+                  <l>for purſuit of my Friends will follow me.</l>
+                  <l>Do this and <hi>Phillis</hi> love will brightly ſhine,</l>
+                  <l>and <hi>Guy</hi> return with joy from <hi>Paleſtine.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>I muſt, I will even do what you pleaſe,</l>
+                  <l>your will ſhall be fulfilled yet ere you go;</l>
+                  <l>this pledge of my true love I will beſtow;</l>
+                  <l>upon thy Hand I put my marriage Ring,</l>
+                  <l>If ere I ſee the ſame and thou not by,</l>
+                  <pb facs="tcp:56229:5"/>
+                  <l>
+                     <hi>Phillis</hi> will grieving weep, and weeping die.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>I take thy pledge of love, and in exchange,</l>
+                  <l>give this true loves kiſſe, and here Vow,</l>
+                  <l>nothing but death ſhall make me leave this Ring.</l>
+                  <l>
+                     <hi>Time</hi> calls me hence, fair <hi>Phillis</hi> now farewell,</l>
+                  <l>with thee let all Heavens joys for ever dwell.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter <hi>Old Philip Sparrow,</hi> &amp; his ſon the <hi>Clown.</hi>
+               </stage>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>Doſt thou hear me ſoon, zoon.</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>Never talk Father, never talk; for Youth will have his ſwindge, if it be in a Halter; and I being a young Man and a Scholar, will go travel to try the fruits of my Learning.</p>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>But whither wilt thou go ſoon ha?</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>Faith Father, <hi>Romo Romulus,</hi> even to <hi>Rome, Morter morteribus,</hi> with a Morter on my Head. But Father Ile come upon ye with a Verſe, <hi>Prapria que maribones tribiunter maſcula dogſtones.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>Whats that zoon ha?</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>That is, you muſt give me Forty pounds, and I muſt go ſeek my fortune.</p>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>Nay chil hold thee vorty of my teeth on that, the whor<g ref="char:EOLhyphen"/>ſon knave, and he'd tarry at home he might be Clark of our Pariſh, ſo he might; he has his writing and reading Tongue, as perfect as eating porredge, ſo he has; and ſides all that, he ſpowts Latin as vaſt as a Mill grinds ſault; but che know the eauſe why thoudſt ſo vain be jogging?</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>Why Father?</p>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>Nay chill tell thee with a witneſſe, 'tis comported all a<g ref="char:EOLhyphen"/>bout our Pariſh that thou haſt got our Neighbour <hi>Sparlings</hi> Daughter with Barne.</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>How comes the old Fox to know this trow; well I muſt ſet a good face on the matter or alls mar'd. Who I get her with Child? Father, why I take to witneſſe the back-ſide of our Barn-door, I never kiſt her but twice in all my life.</p>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>That thou ſhalt ſee, come hither <hi>Parnell,</hi>
+                  </p>
+                  <stage>Enter <hi>Parnell.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:5"/>
+                  <speaker>Par.</speaker>
+                  <p>O Mr. <hi>Sparrow</hi> I little thought you would have us'd me thus!</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>Why <hi>Parnell</hi> how have I us'd you? If there be ever a one in the Pariſh can uſe you better, let him take you and the Child too for me.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>But Mr. <hi>Sparrow</hi> you are not ſo good as your promiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>Nay <hi>Parnell</hi> never talk of that; for I have been better to you then my promiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>How Knave, haſt thou been better to her then thy pro<g ref="char:EOLhyphen"/>miſe, ha?</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>Why Father if you'l not bite off my Noſe, Ile tell ye, I promiſed her to go home and eat a ſowre Milk Poſſet; and if I have got her with child, 'tis more then my promiſe, and ſhe's be<g ref="char:EOLhyphen"/>holding to me for my labour.</p>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>I ſirrah, but you muſt marry her and make her amends.</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>How like an old fool you talk Father, why, ſhe had more need make me amends; for I have made her look pritty and plump, and ſhe has made me look like a ſhotten Herring. But Father take your bleſſing from me, for I muſt needs be walking.</p>
+                  <l>
+                     <hi>Hony ſops queen Maries pence,</hi>
+                  </l>
+                  <l>Tears parts at going hence,</l>
+                  <l>
+                     <hi>Ego volo Domine tu,</hi>
+                  </l>
+                  <l>
+                     <hi>Sparrow</hi> will come with joy to you.</l>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <p>Gods malediction go with thee good ſoon, Ah wees me, wees me.</p>
+               </sp>
+               <sp>
+                  <speaker>Par.</speaker>
+                  <p>Farewel good Mr. <hi>Sparrow.</hi>
+                  </p>
+                  <stage>
+                     <hi>Exeunt Old Man</hi> &amp; <hi>Parnel.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>Nay do not cry good Father, do not weep ſweet <hi>Parnel,</hi> but even farewel and be hang'd, thats twice God bo'ye; I made as though I had been ſorry, but I could not weep and if I ſhould ha been hang'd; but now will I go ſerve the braveſt Man in all the world, his Name is Sir <hi>Guy</hi> of <hi>Warwick;</hi> they ſay he's going to <hi>Jeruſalem</hi> and <hi>Jerico;</hi> but if he goes to the Divel I'le go with him, that's flat; and if <hi>Parnel</hi> be brought to bed before I come again, ſome honeſt Fellow do ſo much as pay for the Nurſing of the Child, and Ile do as much for him another time.</p>
+                  <stage>Exit.</stage>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <pb facs="tcp:56229:6"/>
+               <head>Actus Secundus.</head>
+               <stage>Enter <hi>Time.</hi>
+               </stage>
+               <l>
+                  <hi>DEvotion and Divine Atchievments cauſe</hi>
+               </l>
+               <l>
+                  <hi>Great</hi> Guy <hi>of</hi> Warwick <hi>to neglect all Lawes,</hi>
+               </l>
+               <l>
+                  <hi>Of Nuptial League, he leaves his pregnant VVife,</hi>
+               </l>
+               <l>
+                  <hi>Countrey and Kindred for a holy Life,</hi>
+               </l>
+               <l>
+                  <hi>But in his progreſſe, makes himſelf a prize</hi>
+               </l>
+               <l>
+                  <hi>To multitudes of matchleſſe miſeries;</hi>
+               </l>
+               <l>
+                  <hi>By which it may be juſtly underſtood,</hi>
+               </l>
+               <l>
+                  <hi>He is not truly great, that is not good:</hi>
+               </l>
+               <l>
+                  <hi>In</hi> Holy Lands <hi>abroad his ſpirits roame</hi>
+               </l>
+               <l>
+                  <hi>And not in</hi> Deanes and Chapters lands <hi>at home,</hi>
+               </l>
+               <l>
+                  <hi>His ſacred fury menaceth that Nation,</hi>
+               </l>
+               <l>
+                  <hi>VVhich hath</hi> Indea <hi>under Sequeſtration:</hi>
+               </l>
+               <l>
+                  <hi>He doth not ſtrike at Surplices and Tippits,</hi>
+               </l>
+               <l>(<hi>To bring an</hi> Oleo <hi>in of Sects in Sippits</hi>)</l>
+               <l>
+                  <hi>But deales his warlike and dead-doing blowes,</hi>
+               </l>
+               <l>
+                  <hi>Againſt his</hi> Saviours <hi>and his</hi> Soveraigns <hi>foes;</hi>
+               </l>
+               <l>
+                  <hi>That Coat of Armour fears no change of weather,</hi>
+               </l>
+               <l>
+                  <hi>Where ſanctity and ſouldier go together:</hi>
+               </l>
+               <l>
+                  <hi>So doth our</hi> Champion <hi>march up to the fight,</hi>
+               </l>
+               <l>
+                  <hi>Sit, ſilent, pray,</hi> Time <hi>will bring all to light.</hi>
+               </l>
+               <stage>Exit.</stage>
+               <stage>Enter <hi>Guy</hi> and <hi>Sparrow.</hi>
+               </stage>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>What Sirrah <hi>Sparrow?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Anon, anon Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>What are you turn'd Tapſter ſince you came out of <hi>England?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Tapſter quotha I ſhall never be ſo good a man while I live; for I had rather ſee a Tapſter then a King: I like your long Journeys at Sea wel but for one thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>What's that I pray?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>O Maſter heres no Alehouſes by the way, a man can<g ref="char:EOLhyphen"/>not
+<pb facs="tcp:56229:6"/>get a Can of Beer for any Money; but Maſter why did you give that great Caſtle you got from the Gyant to that pueling harlotry in the ſilk Gown?</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Why Sir ſhe was a Lady of great birth.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>A Ladle of great birch, why and ſhe had been a ladle of holly; I would not have given't her I trow, you had bin bet<g ref="char:EOLhyphen"/>ter a given it me by half.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>What wouldeſt thou have done with it?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>I would have wrapt it in a Letter and ſent it into <hi>War<g ref="char:EOLhyphen"/>wickeſhire</hi> for a token: but Maſter, good ſweet Maſter lend me your Sword.</p>
+                  <stage>Enter an Hermit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>What wilt thou do with it?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Here comes an Old man Ile kill him.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Ye cowardly Rogue wilt thou kill a Hermit?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>An Emmot quotha, 'tis one of the fowleſt great Emmots that ever I ſaw.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>God bleſſe thee Father and ſend thee happineſſe on Earth and Heaven when thou dieſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>And the Gallowes when a dyes, what ſhould he do with Heaven?</p>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <p>O what art thou that ſpeakeſt of God or Heaven, full forty Winters have I lived here, and never heard the Name of God till now, but in my prayers and my oriſons.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>A ſawcy old Knave I perceive, he uſes to eat Orrenges, Which very word makes me have an appetick as fierce as a Fidler at a Feaſt; it is a queſtion of ſome difficulty, to reſolve whether my Maſters Spirit, or my Stomack be the greater; if he have the valour to knock down a Dun Cow, I have the Courage to Cut he rup, and the Confidence to Carbonado her quarters.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Father into your private ears I dare,</l>
+                  <l>power out my ſpirit, my deſignments are</l>
+                  <l>for holy Actions, you may underſtand,</l>
+                  <l>my pilgrimage is to the holy Land,</l>
+                  <l>where my Redeemer's cauſe is trodden down,</l>
+                  <l>where he wore Thorns, <hi>
+                        <g ref="char:V">Ʋ</g>ſurpers</hi> wear a Crown,</l>
+                  <l>I go to view the Monument and ſtory</l>
+                  <l>Of him that was no leſſe then Lord of Glery.</l>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>You anſwer punctually to what I ask,</l>
+                  <pb facs="tcp:56229:7"/>
+                  <l>but ſon you undertake a tedious task,</l>
+                  <l>as intricate as dangerous, may I crave</l>
+                  <l>the name of him whoſe valour is ſo brave?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Although I now ſhrowded in theſe Pilgrims weeds,</l>
+                  <l>(an holy habit fit for holy deeds)</l>
+                  <l>I am an Earle, men call me <hi>Guy</hi> of <hi>VVarwick.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>In all the ſpace betwixt <hi>Dover</hi> and <hi>Barwick,</hi>
+                  </l>
+                  <l>I have not known a man of clearer Fame,</l>
+                  <l>(whoſe actions add new glory to his Name)</l>
+                  <l>then he that owns that title, all that's good,</l>
+                  <l>attend your Spirit and preſerve your blood.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>And Father Emmot did you never hear of the Famous actions and valorous Atchievments of one Squire <hi>Sparrow?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Away you Hedg-bird.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <l>
+                     <hi>Phillip</hi> is his Name,</l>
+                  <l>A bird of <hi>Venus,</hi> and a Cock of the Game,</l>
+                  <l>who once being in Love with pritty <hi>Parnell,</hi>
+                  </l>
+                  <l>did crack her Nut, and thou maiſt pick the Kernell;</l>
+                  <l>ſhe is a Peacock every man doth vayle</l>
+                  <l>his bonnet to her, when ſhe ſhewes her tayle.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Leave talking of your trundle Sirrah.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>VVhy ſo? my Miſtris <hi>Parnell</hi> is as precious to me, as your Lady <hi>Phillis</hi> is to you, we have gotten them both with child; and all the difference is, that <hi>Phillis</hi> is your wedded VVife, and <hi>Parnell</hi> is my unmarried Miſtris, and we muſt needs run up and down killing of Dun Cowes, Dragons, VVild-boars and Maſtiff Dogs, when we have more work at home then we can well turn our hands to.</p>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>I like your high deſign, that for the truth,</l>
+                  <l>can in the dayes of dalliance and youth,</l>
+                  <l>proſecute piety, and attempt things</l>
+                  <l>that Conſecrate the Crowns of greateſt Kings.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Father your benediction will add wings</l>
+                  <l>to all my undertakings.</l>
+                  <stage>Guy kneeleth.</stage>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>May the ſprings</l>
+                  <l>Of ever pregnant providence ne're be,</l>
+                  <l>ſhut to your wants, but flow fertyle and free,</l>
+                  <l>may you ne're feel neceſſities ſharp rod,</l>
+                  <pb facs="tcp:56229:7"/>
+                  <l>the bleſſed Guardians of the higheſt God,</l>
+                  <l>protect thy ſteps and keep thee far from ill;</l>
+                  <l>ſo farewell Son my prayers attend thee ſtill.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Nay but do you here Old Man, pray let you and I have a two or three cold words together? Have you ever a Houſe here in theſe Woods?</p>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <p>No Houſe but a poor Cottage, gentle friend.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Unch, How ſay ye? you would fain curry favour with me, but 'twill not ſerve your turn: Have ye ever an Ambry in your Cottage, where a Man may find a good Bag-pudding, a piece of Beef, or a Platter of Bruis knockle deep in Fat; for I tell thee old fellow, I am ſharp ſet, I have not eat a good Meal this Fortnight.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Come hither Sirrah, can I no ſooner come into a ſtran<g ref="char:EOLhyphen"/>gers Company, but you ſeek to diſgrace me!</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Who I? why Maſter? you are mightily deceived in me, for I never uſe to ſay Grace before I ſee meat on the Table.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Sirrah, I ſpeak not of ſaying Grace but of Diſgrace, there<g ref="char:EOLhyphen"/>fore Sirrah go and tell him you want no meat.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Shall I tell him ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>I Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>I ſhall tell him a monſtrous lye then.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>You'l tell him ſo, quickly too if I intreat you.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Yes i'le tell him becauſe I dare do no otherwiſe; old man did I tell you I wanted meat?</p>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <p>I marry did you.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Ye lye like an old Knave, yet if you have any Bread and Cheeſe about you, put a piece in my Cap.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Sir leave your prating, Father fare you well.</p>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <p>More good attend thee then my tongue can tell.</p>
+                  <stage>Exit Hermit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>This is the ſtately Tower of <hi>Donather,</hi>
+                  </l>
+                  <l>where <hi>Huon</hi> of <hi>Burdeaux</hi> a couragious Knight</l>
+                  <l>ſlew <hi>Angolofar</hi> in a ſingle Fight:</l>
+                  <l>go <hi>Sparrow,</hi> ſeek find me an entrance in,</l>
+                  <l>let me alone to cope, with thoſe comes forth.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Why Maſter have you no more wit but to ſend me, did not you hear that there keeps a monſtrous Gyant in this Caſtle, that eateth a quarter of an Ox at a bit, his mouth's as wide as a
+<pb facs="tcp:56229:8"/>barn door, his eyes as broad as two pewter platters, and beſides all that, they ſay, he hath Four and twenty Men to throw Mu<g ref="char:EOLhyphen"/>ſtard in his Mouth; Now if I ſhould come in the way, fall in the Muſtard Fot, and be thrown into his mouth, you might go look for a man where you could get him.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>I but you being a <hi>Sparrow</hi> methinks ſhould flye from them.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>O Maſter I muſt confeſſe I have been ſomething loftily minded in my young da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, but <hi>Parnell</hi> and the reſt of the prit<g ref="char:EOLhyphen"/>ty Wenches in our Pariſh have ſo pluct my plumes, that I was never good mounter ſince ifaith.</p>
+                  <stage>It Thunders and Lightens.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Very well, then you'l not go?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Go, yes i'le go that's flat. O Maſter! the Divel, the Divel, the Divel.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Why? how now Sirrah, are you affraid?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>No, I ſcorne to be affraid, but good Maſter for Gods ſake grant me one requeſt, upon my knees I ask it.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>What's that Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Sweet hony Maſter go your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>I thank you Sir, but if you go not ſoon, my Sword ſhall bring you of a ſtomack to go.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>O Maſter, never talk of that; for I have a ſtomack like a Horſe, but no heart in the world to go to ſuch a break-faſt, but yet I'le go what ſomere comes ont, though I run into a buſh preſently; I am in Maſter, I am in.</p>
+                  <stage>It Thunders &amp; Lightens.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>It is no Gyant ſure that keeps this place,</l>
+                  <l>but ſome Inchanter or dam'd Sorcerer.</l>
+                  <l>Hell-hound come forth, that I may cope with thee,</l>
+                  <l>I fear not all thy charming Sorceries;</l>
+                  <l>ſend forth no ſhadows to afright my ſoul,</l>
+                  <l>my Faith no Hell-born Fury can controul.</l>
+                  <stage>Enter the Inchanter.</stage>
+               </sp>
+               <sp>
+                  <speaker>Inchan.</speaker>
+                  <l>Let all my horrid Vapours ceaſe their ſtrength;</l>
+                  <l>Let the Air Freeze, the Earth be cold as Ice,</l>
+                  <l>whereon this during Knight dothſet his Feet.</l>
+                  <l>For though Hells Force can no waies daunt his heart,</l>
+                  <l>he ſoon ſhall know my Force can tame his Pride.</l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:8"/>
+                  <speaker>Guy.</speaker>
+                  <l>I cannot lift my Arms unto my Head,</l>
+                  <l>my Feet ſtick faſt into the ſolid earth,</l>
+                  <l>and I ſhall never move my ſelf from hence,</l>
+                  <l>damned inchanter, helliſh ſorcerer,</l>
+                  <l>whoſe black dam'd Art, hath wrought my luckleſſe fall;</l>
+                  <l>O that thou durſt let looſe this damned ſpell,</l>
+                  <l>I ſoon would ſend thy fiend-like ſoul to Hell.</l>
+               </sp>
+               <sp>
+                  <speaker>Inchan.</speaker>
+                  <l>By all the burning brooks of <hi>Phlegiton,</hi>
+                  </l>
+                  <l>by <hi>Styx</hi> and <hi>Acheron</hi> I vow and ſwear</l>
+                  <l>ne're ſhalt thou go alive out of this place.</l>
+                  <l>Thus do I lay a charme upon thy head,</l>
+                  <l>a hell bred ſlumber cloſe thy ſences up;</l>
+                  <l>there groveling lye, and never more ariſe,</l>
+                  <stage>Guy falls.</stage>
+                  <l>a black inchanted charme cloſe up thine eyes.</l>
+                  <stage>Exit inchanter.</stage>
+               </sp>
+               <stage>Enter <hi>Oberon</hi> King of the <hi>Fairies.</hi>
+               </stage>
+               <sp>
+                  <speaker>Obe.</speaker>
+                  <l>But I will break thy charming Sorceries,</l>
+                  <l>and he ſhall wake to be thy overthrow.</l>
+                  <l>You harmleſſe ſpirits of the flowry Meades,</l>
+                  <l>Nymphes, Satyres, Fawnes, and all the Fairy train,</l>
+                  <l>that waits on <hi>Oberon</hi> the Fairy King,</l>
+                  <l>attend me quickly with your ſilver tunes;</l>
+                  <l>and in a circled Ring, lets compaſſe round,</l>
+                  <l>this ſleeping Knight that lies upon the ground.</l>
+               </sp>
+               <stage>
+                  <hi>Enter the</hi> Fairies <hi>with Muſick, they Dance about him,</hi> Oberon <hi>ſtrikes</hi> Guy <hi>with his Wand, he awakes and ſpeakes.</hi>
+               </stage>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Where art thou <hi>Guy?</hi> what heavenly place is this?</l>
+                  <l>what raviſhing ſound of Muſick fills mine ear?</l>
+                  <l>what bleſſed ſhadowes do appear to me,</l>
+                  <l>that am a woful wretched ſinful man?</l>
+                  <l>O pardon me as I am faithful true,</l>
+                  <l>I never yet meant hurt to none of you.</l>
+               </sp>
+               <sp>
+                  <speaker>Obe.</speaker>
+                  <l>We know it well, ariſe fair Knight, ſtand up,</l>
+                  <stage>Guy ariſeth.</stage>
+                  <pb facs="tcp:56229:9"/>
+                  <l>thou wert inchanted by a helliſh fiend,</l>
+                  <l>that doth inhabit in this hatefull Tower;</l>
+                  <l>he caſts thee in a deadly charming ſleep,</l>
+                  <l>and but by my means thou ſhouldeſt ne're have walkt,</l>
+                  <l>I am the Fairy King that keeps theſe Groves,</l>
+                  <l>for <hi>Huon</hi> of <hi>Burdeaux</hi> ſake, thy Warlike friend,</l>
+                  <l>the dear loved Minion of the Fairy King,</l>
+                  <l>will I make <hi>Guy</hi> of <hi>Warwicks</hi> name be fear'd;</l>
+                  <l>for conqueſt of the Tower of <hi>Donather,</hi>
+                  </l>
+                  <l>here take this charming Wand, I give it thee,</l>
+                  <l>which is of ſuch great vertue if it touch,</l>
+                  <l>all the Inchantments in this ſpacious world,</l>
+                  <l>they all ſhall be diſſolv'd immediately.</l>
+                  <l>For proof whereof make tryal againſt this Tower,</l>
+                  <l>and in a moment it ſhall vaniſh hence.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Great Fairy King, how am I bound to thee,</l>
+                  <l>that from theſe dangers haſt delivered me,</l>
+                  <l>I'le touch this Tower, if that diſſolve theſe charmes,</l>
+                  <l>
+                     <hi>Warwick</hi> is free from all inchanting harmes.</l>
+                  <stage>
+                     <hi>It Thunders, Lightens. Enter</hi> Sparrow <hi>running.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Fire, Fire, Fire.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>How now Sirrah, what's the news with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Whoop Maſter are you alive ſtill? nay, then I care not ifaith, but I have been peper'd ſince I went from you.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>How Sir I pray.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>When you ſent me to ſeek an entrance into the Caſtle, I thinking it was good ſleeping in a whole skin, ran and hid my ſelf in a buſh, I had not lain there long but it began to Thunder and Lighten monſtrouſly, and preſently the Buſh flew a Fire about my Eares; that with your favour I came away in a ſtinking complexity; but Maſter what fine little hop, O my Thumbs have you got here.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Sirrah take heed what you ſay for theſe are Fairies.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>
+                     <hi>Fairies</hi> quotha, I care not what they be, I'le have about with them for a bloody Noſe; I have a better ſtomack to ſight with one of them, then with the Gyant agreat deal; Unch ye whorſon little pigpies, you i'le tickle ye ifaith.</p>
+                  <stage>
+                     <pb facs="tcp:56229:9"/>
+                     <hi>The Fairies fall about him, pulls him down, pinches him, he cries out.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <p>O Maſter help, help.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>How now Sirrah, what's the newes with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>I am kil'd maſter, I am kil'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Kil'd knave, where art kil'd?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>In the Buttock, in the Buttock.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>VVell Sir, riſe, or i'le riſe ye.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Riſe quotha, yes, I'le riſe, but I am ſure I am dead; do you call theſe Fairies, a vengeance on them, they have tickled my Collefodiums ifaith; but maſter what is that ſame little gentle<g ref="char:EOLhyphen"/>mans name?</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Sir his name is King <hi>Oberon.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Little Gentleman is your name King <hi>Colbron?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Obe.</speaker>
+                  <p>No Sir, my name is King <hi>Oberon.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>VVhy then good King Muttonbone learne your little Munkies to pair their Nayles with a peſtilence; for my poſteri<g ref="char:EOLhyphen"/>ors will feel the print of them this fortnight at the leaſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Obe.</speaker>
+                  <l>Sir hold your peace, and <hi>Guy</hi> give me thy hand,</l>
+                  <l>the way i'le ſhew thee to the holy land,</l>
+                  <l>where I will add ſuch glory to thy name</l>
+                  <l>that all the world ſhall ſpeak of <hi>Warwicks</hi> fame.</l>
+                  <l>The black Inchanter he is gone to Hell,</l>
+                  <l>in endleſſe torments ever for to dwell,</l>
+                  <l>Nymphs, Satyres, Fawnes, and all the reſt march on,</l>
+                  <l>before ſtout <hi>Guy,</hi> and youthful <hi>Oberon.</hi>
+                  </l>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <head>Actus Tertius.</head>
+               <stage>Enter <hi>Time.</hi>
+               </stage>
+               <l>
+                  <hi>THus ſwiftly runs the ſilent houres of</hi> Time,</l>
+               <l>
+                  <hi>whilſt wordly men ſecured by their wealth,</hi>
+               </l>
+               <l>
+                  <hi>think not on time nor on their ſoules fair health</hi>
+               </l>
+               <l>
+                  <hi>but thoſe whoſe well adorned lymbes are made,</hi>
+               </l>
+               <l>
+                  <hi>of that pure mettal which ſhall never fade;</hi>
+               </l>
+               <l>
+                  <hi>thoſe that have learned of Angells how to ſing,</hi>
+               </l>
+               <pb facs="tcp:56229:10"/>
+               <l>
+                  <hi>and to the world all piety doth bring,</hi>
+               </l>
+               <l>
+                  <hi>and fills the world with learning and with art,</hi>
+               </l>
+               <l>
+                  <hi>to thoſe doth</hi> Time <hi>her Golden gifts impart;</hi>
+               </l>
+               <l>
+                  <hi>you fair beholders of this honoured ſtory,</hi>
+               </l>
+               <l>
+                  <hi>think now that</hi> Guy <hi>of</hi> Warwick <hi>he is gone,</hi>
+               </l>
+               <l>
+                  <hi>leaving theſe</hi> Fairies <hi>and King</hi> Oberon,</l>
+               <l>
+                  <hi>and now to fair</hi> Jeruſalem <hi>takes his way;</hi>
+               </l>
+               <l>
+                  <hi>where hearing of the Wars the Pagans make</hi>
+               </l>
+               <l>
+                  <hi>againſt that City and that holy Land,</hi>
+               </l>
+               <l>
+                  <hi>he now prepares himſelf by force of Armes,</hi>
+               </l>
+               <l>
+                  <hi>to ſave</hi> Judea <hi>from inſuing harmes;</hi>
+               </l>
+               <l>
+                  <hi>long ſtories are not told in little time,</hi>
+               </l>
+               <l>
+                  <hi>much matter in ſmall room we muſt combyne:</hi>
+               </l>
+               <l>
+                  <hi>wee'l curt all nothing, yet make ſomething ſhort,</hi>
+               </l>
+               <l>
+                  <hi>becauſe we would ſhun tediouſneſſe of ſport;</hi>
+               </l>
+               <l>
+                  <hi>if it be long, ſay length is all the fault,</hi>
+               </l>
+               <l>
+                  <hi>if it be lame, ſay old men needs muſt halt.</hi>
+               </l>
+               <stage>Enter <hi>Sultan Shamurath, Soldan</hi> of <hi>Babylon,</hi> with <hi>Zoraſtes.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sult.</speaker>
+                  <l>Thus <hi>Sultan Shamurath,</hi> as Earthly God of Kings,</l>
+                  <l>have marcht along with all their VVarlike Troopes.</l>
+                  <l>Ten Thouſand Gallies, ſhips and brigandines,</l>
+                  <l>lye dancing on the Adratique Sea,</l>
+                  <l>ready to be commanded when we pleaſe,</l>
+                  <l>to bear this Captive King of fair <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>to our Triumphant City <hi>Babylon;</hi>
+                  </l>
+                  <l>but ſay <hi>Zoraſtes,</hi> how ſhall we employ</l>
+                  <l>our VVarlike Forces 'gainſt theſe Chriſtians.</l>
+                  <l>Moſt dread and mighty Emperour of the Eaſt,</l>
+                  <l>whoſe puiſſant and warlike Force commands</l>
+                  <l>even from the orient to the ſonnes decline;</l>
+                  <l>ſuffer not thus theſe hated Chriſtians</l>
+                  <l>to inmure themſelves in walls of ſtone and braſſe,</l>
+                  <l>whilſt <hi>Sultan Shamurath</hi> with all his Lords</l>
+                  <l>attends a day of battle with their ſwords.</l>
+                  <pb facs="tcp:56229:10"/>
+                  <l>Great King of <hi>Babell,</hi> now be rul'd by me,</l>
+                  <l>and let <hi>Zoraſtes</hi> counſel now prevail,</l>
+                  <l>I'le raiſe up heaps of damned ſpirits from hell,</l>
+                  <l>that ſhall make way unto my bold attempt.</l>
+                  <l>Legions of Divels attend my dreadful Charmes,</l>
+                  <l>ready to be commanded when I pleaſe;</l>
+                  <l>then mighty <hi>Soldan</hi> make no more delay,</l>
+                  <l>my art ſhall make the Conquerour this day.</l>
+               </sp>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <l>Thankes ſtout <hi>Zoraſtes,</hi> great Magician thanks,</l>
+                  <l>but firſt lets ſummon them unto a parley</l>
+                  <l>perhaps they'l yield their City to our hands,</l>
+                  <l>knowing our force to be invincible,</l>
+                  <l>and they not able to withſtand our power.</l>
+                  <l>Trumpet or Drum ſummon a parley there.</l>
+                  <stage>
+                     <hi>A parley ſounded, Enter the King of</hi> Jeruſalem <hi>upon the walls.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>What craves <hi>Thaſirian</hi> Emperour at our hands?</p>
+               </sp>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <l>Homage and fealty as thy Soveraigne Lord,</l>
+                  <l>of all theſe ſpacious bounds of Chriſtendome;</l>
+                  <l>know petty King of fair Jeruſalem</l>
+                  <l>I am the mighty <hi>Sultan Shamurath</hi>
+                  </l>
+                  <l>that rules the tripple City <hi>Babylon,</hi>
+                  </l>
+                  <l>and all the Kingdomes of the Eaſtern world,</l>
+                  <l>only this little part of <hi>Aſia,</hi>
+                  </l>
+                  <l>holds out againſt us and derides our faith</l>
+                  <l>ſcorning our Lawes of holy Mahomet,</l>
+                  <l>but by his bleſſed Alcaron I ſwear,</l>
+                  <l>I'le ne're depart, nor draw my Army hence,</l>
+                  <l>till in the Temples of <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>both <hi>Mahomet, Aſteroth</hi> and <hi>Termagaunt,</hi>
+                  </l>
+                  <l>thoſe holy Gods that Governs <hi>Babylon</hi>
+                  </l>
+                  <l>be ſet for you ſtout Chriſtians to adore,</l>
+                  <l>which ye ſhall do, or all of you ſhall die,</l>
+                  <l>and baſely at our foot like Vaſſals lie.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Proud and Preſumptuous Tyrant as thou art,</l>
+                  <l>we fear no bug-bear threats of Tyranny,</l>
+                  <l>nor all the multitudes thou canſt command,</l>
+                  <l>we guard and keep the bleſſed Sepulchre,</l>
+                  <pb facs="tcp:56229:11"/>
+                  <l>of our deare Saviour and Redeemer Chriſt,</l>
+                  <l>within the walls of fair <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>though on a ſuddain with your heathen Troops,</l>
+                  <l>you have begirt us with a fearful ſiege:</l>
+                  <l>yet know proud <hi>Syrian</hi> that fair <hi>Zions</hi> hill,</l>
+                  <l>King <hi>Solomon</hi>'s Temple, and the marble Tomb,</l>
+                  <l>which we adore with awfull reverence,</l>
+                  <l>can raiſe a hundred thouſand Chriſtians</l>
+                  <l>and proudly beat you back to <hi>Babylon.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <p>Thou will not then ſurrender us thy Town?</p>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Not whilſt one man ſurvives to lift a ſword,</l>
+                  <l>attempt the worſt you can, to ſave or kill,</l>
+                  <l>we are prepar'd even againſt the worſt of ill.</l>
+                  <stage>Exit King.</stage>
+               </sp>
+               <sp>
+                  <speaker>Sult.</speaker>
+                  <l>Why then at all, march forward warlike Lords,</l>
+                  <l>wee'l parley now with Pole-axe, Bills and Swords,</l>
+                  <l>darraigne our battles, and begin the Fight,</l>
+                  <l>and <hi>Mahound</hi> ſtill direct my courſe Aright.</l>
+                  <stage>Exeunt Omnes.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Guy <hi>of</hi> Warwick <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Thus through the help of my dear Saviour Chriſt,</l>
+                  <l>whoſe out-ſtrecht arm hath ſtill preſerved me,</l>
+                  <l>I am eſcap't from <hi>Sultan Shamurath,</hi>
+                  </l>
+                  <l>and all his Hoaſt of curſed <hi>Saracens;</hi>
+                  </l>
+                  <l>now I am come where I may fix mine eyes</l>
+                  <l>ſafely upon King <hi>David's</hi> City walls.</l>
+                  <l>Is this <hi>Judeas</hi> pride, fair <hi>Zions</hi> hill?</l>
+                  <l>
+                     <hi>Sanctum ſanctorum</hi> and the houſe of Heaven,</l>
+                  <l>the place where my dear Saviour loſt his Life?</l>
+                  <l>O how it grieves me to behold thy walls,</l>
+                  <l>hem'd in with Dogs and curſed <hi>Saracens,</hi>
+                  </l>
+                  <l>that ſeek to rob thee of thy beauty quite,</l>
+                  <l>and turn thy joyful day to mourning night.</l>
+                  <l>But heaven aſſiſting me, I will prevent</l>
+                  <l>their damned purpoſes, and make them repent,</l>
+                  <l>their journey taken 'gainſt <hi>Judeas</hi> good,</l>
+                  <pb facs="tcp:56229:11"/>
+                  <l>or in that fair adventure ſpend my blood.</l>
+                  <stage>Enter Sparrow crying.</stage>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Tarry, tarry, tarry, hold, hold, hold.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Why? how now ſirrah, what's the news with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>O Maſter are you there? I have done ſuch an exploit as you never heard of in your life.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>What's that Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Nay, I am ſure it paſſes your Capacity, but I'le tell you though, for it was a valiant piece of ſervice, when I ſaw you got in amongſt the <hi>Pogons,</hi> I thought ſome body had hired you to break heads by the dozen, for you never hit any of them, but they ſhak't their heels as though they had the Palſey; I ſeeing you ſo hard at work thought it not beſt to trouble ye, but after the old manner ran and hid my ſelf in a buſh.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>O Cowardly ſlave! was this your Valiant piece of ſervice?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>O Maſter you doe not hear half yet, I lay ſo long till you were gone, and looking out of the buſh, I could ſee all the <hi>Pogons</hi> laid faſt aſleep; then went I ſneaking and ſtole away their Snapſacks with all their Victuals, I got up to the top of a Hill, and eat it up every bit, when I had done, I began to hollow; the <hi>Pogans</hi> miſſing their provant, came running after me, but I made one pair of Leggs worth two pair of Hands, and out-run them all ifaith.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>I thought what hot ſervice you doe alwaies, but peace, here comes the King of fair <hi>Jeruſalem.</hi>
+                  </p>
+                  <stage>Enter the King of Jeruſalem.</stage>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>I am a wretched King, the more my wo,</l>
+                  <l>Kings are ſometimes diſtreſt, and I am ſo,</l>
+                  <l>but if thou be that warlike Conquerour,</l>
+                  <l>that through the Pagan hoaſt hath cut thy way,</l>
+                  <l>I do beſeech thee even with woful tears,</l>
+                  <l>to ſave <hi>Judea Sion Paleſtine</hi>
+                  </l>
+                  <l>from baſe attempt of heathen ſervitude.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>If it be? O ſcurvy, if it be! why I'le tell you Good<g ref="char:EOLhyphen"/>man <hi>King,</hi> twas I and my maſter tickled 'um ifaith.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>True Sir, you and your Maſter and I, pray what did you?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Why Maſter? when you had kil'd them, I came and cut off their Heads.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:12"/>
+                  <speaker>King.</speaker>
+                  <l>Where wert thou born? or whats thy Countries name,</l>
+                  <l>brave Chriſtian Knight, may I be bold to ask?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>My Native Countrey is fair <hi>England</hi> cal'd,</l>
+                  <l>my name Sir <hi>Guy</hi> of <hi>Warwick</hi> hither come</l>
+                  <l>of holy zeal to ſee my Saviours Tomb,</l>
+                  <l>but ſeeing it hem'd round about with foes,</l>
+                  <l>I cut a paſſage with my Warlike ſword,</l>
+                  <l>meaning to reſcue it or loſe my Life.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Heaven proſper thy attempt, lead on Fair Knight,</l>
+                  <l>God and good Angels ſtill protect our Right.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>God and Saint <hi>George</hi> in <hi>Warwicks</hi> quarrel Fight.</p>
+                  <stage>Exit Omnes.</stage>
+               </sp>
+               <stage>
+                  <hi>Alarum, Enter</hi> Sultan, Zoraſtes <hi>from the Fight.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <l>O ſpeak <hi>Zoraſtes,</hi> what Divel or Man is that,</l>
+                  <l>which in his Fury confounds ſuch heaps of men?</l>
+               </sp>
+               <sp>
+                  <speaker>Zoraſt.</speaker>
+                  <l>My Lord I cannot tell, but this I know,</l>
+                  <l>neither <hi>Turk</hi> nor <hi>Saracen</hi> can withſtand his blow,</l>
+                  <l>our Souldiers fly like chaff before the Wind,</l>
+                  <l>and none can ſtand againſt his Conquering ſword.</l>
+               </sp>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <l>Canſt thou not tell me what he is?</l>
+                  <l>nor by thy Magick charmes confound the ſlave?</l>
+               </sp>
+               <sp>
+                  <speaker>Zoraſt.</speaker>
+                  <l>I can do both as you ſhall ſtreight behold;</l>
+                  <l>
+                     <hi>Bellemoth, Aſteroth</hi> Aſcend.</l>
+               </sp>
+               <sp>
+                  <speaker>Spirit.</speaker>
+                  <p>
+                     <hi>Quid me uis?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Zoraſt.</speaker>
+                  <l>I charge thee tell me truly who it is,</l>
+                  <l>that in his rage confounds and ſpoiles our men.</l>
+               </sp>
+               <sp>
+                  <speaker>Spirit.</speaker>
+                  <l>'Tis <hi>Guy</hi> of <hi>Warwick</hi> that is hither come,</l>
+                  <l>of holy zeal to ſee his Saviour Tomb.</l>
+               </sp>
+               <sp>
+                  <speaker>Zoraſt.</speaker>
+                  <l>But never ſhall he ſee that Marble Grave,</l>
+                  <l>go <hi>Bellemoth,</hi> and in a fierce flame,</l>
+                  <l>hoyſe him aloft into the vacant Air,</l>
+                  <l>and throw him headlong into the Neighbouring Seas.</l>
+               </sp>
+               <sp>
+                  <speaker>Spirit.</speaker>
+                  <p>
+                     <hi>Abeo.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Zoraſt.</speaker>
+                  <p>No, we fight my Lord, for victory is your's.</p>
+               </sp>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <l>Why? then <hi>Zoraſtes</hi> once more to the Fight,</l>
+                  <l>and <hi>Mahomet</hi> direct my courſe Aright.</l>
+                  <stage>Exeunt Omnes.</stage>
+               </sp>
+               <stage>
+                  <pb facs="tcp:56229:12"/>
+                  <hi>Alarum Excurſions. Enter</hi> Sultan <hi>and</hi> Zoraſtes <hi>flying,</hi> Guy <hi>and they Eight,</hi> Zoraſtes <hi>Eſcapeth,</hi> Guy <hi>taketh</hi> Sultan <hi>Priſoner.</hi>
+               </stage>
+               <stage>
+                  <hi>Then Enter the King of</hi> Jeruſalem.</stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Command theſe brawling Drums to ceaſe their noiſe,</l>
+                  <l>whilſt I ſalute our Warlike Conquerour,</l>
+                  <l>renown'd Sir <hi>Guy</hi> of <hi>Warwick,</hi> whoſe great name,</l>
+                  <l>extolls fair <hi>England</hi> with a glorious fame;</l>
+                  <l>fit in our Throne victorious <hi>Engliſhman,</hi>
+                  </l>
+                  <l>our Crown and Scepter ſhall be all as free,</l>
+                  <l>to <hi>Guy</hi> of <hi>Warwick</hi> as it is to me.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Far be it from the thought of <hi>Engliſhman,</hi>
+                  </l>
+                  <l>to uſurp the ſeat of fair <hi>Jeruſalem;</hi>
+                  </l>
+                  <l>but for thoſe favours you have grac't me with</l>
+                  <l>here I reſigne unto your princely hands,</l>
+                  <l>Great <hi>Sultan Shamurath,</hi> King of <hi>babylon.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Victorious Knight, both in thy words and deeds,</l>
+                  <l>this proud preſumptuous King of <hi>Babylon</hi>
+                  </l>
+                  <l>which thou ſurrend reſt here as priſoner,</l>
+                  <l>I freely do deliver back to thee,</l>
+                  <l>to ranſome or diſpoſe as thou thinkſt beſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <l>Let me be ranſom'd mighty Chriſtian Knight,</l>
+                  <l>and I will back ſurrender to thy hands</l>
+                  <l>all thoſe Townes and Caſtles I have won,</l>
+                  <l>
+                     <hi>Joppa, Samaria</hi> and Rich <hi>Nazareth,</hi>
+                  </l>
+                  <l>with fifty Thouſand bars of ſilver plate,</l>
+                  <l>to ranſome home great <hi>Sultan Shamurath.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>I ſcorn thy league and love, proud heathen King,</l>
+                  <l>I'le make thee now my Vaſſals underling.</l>
+               </sp>
+               <sp>
+                  <speaker>Sultan.</speaker>
+                  <p>Scornſt thou to love the Monarch of the world?</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>The Monarch of black Hell, ſhould I not ſcorn,</l>
+                  <l>the love of <hi>Belzebub Leviathan,</hi>
+                  </l>
+                  <stage>Sultan ſtamps.</stage>
+                  <l>Nay Sir I'le make you tear your Mahomet,</l>
+                  <l>and ſtamp and ſtare.</l>
+                  <stage>Enter Sparrow with a Pagan in a Halter.</stage>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:13"/>
+                  <speaker>Spar.</speaker>
+                  <p>I and ſwear. too ifaith afore I have done with him; O Maſter you think I can do nothing, I have catchta <hi>Pogon.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>How ſir I pray?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Why Maſter after the vallianteſt manner that could be; for I found him aſleep, and having a Halter in my pocket, put it about his Neck inſtead of a falling band.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>But what will you do with him now?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Marry Maſter, firſt and come fordermoſt, I'le hang him two houres by the Clock, then I'le cut off his head becauſe he ſhall not call me knave for my labour; and when I have done ſo, I'le let him go his way, nay ye whorſon <hi>Pogon</hi> I'le tickle ye that's flat;<note place="margin">The <hi>Pogan</hi> takes the Halter from his own Neck, and put's it a<g ref="char:EOLhyphen"/>bout <hi>Sparrows</hi> neck, and runs away.</note> O Maſter the <hi>Pogon</hi> has given me two ſlips for a Teſter, but I'le after him, if I catch him again, I'le give him a Cawd eaſt in's Chaps, that's two turns and a wry mouth, and then he may drink to his friends all the day after.</p>
+                  <stage>Exit Sparrow.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Since that your Majeſty hath back delivered,</l>
+                  <l>this <hi>Sultan Shamurath</hi> into my hands,</l>
+                  <l>know the ranſome I will ſet on him,</l>
+                  <l>ſhall pleaſe our God and all good Chriſtians.</l>
+                  <l>O bleſſed Emperour think upon the Croſſe,</l>
+                  <l>which is the true badg of our ſweet Saviour Chriſt</l>
+                  <l>by whoſe great help we have got Victory.</l>
+                  <l>Then to enlarge the Fame of Chriſtendome,</l>
+                  <l>and our great makers ever glorious name,</l>
+                  <l>Thou <hi>Sultan Shamurath</hi> with all thy Hoaſt,</l>
+                  <l>ſhall leave your faith and become Chriſtians;</l>
+                  <l>do this, from any ranſome thou art free,</l>
+                  <l>and all thy people ſet at liberty.</l>
+               </sp>
+               <sp>
+                  <speaker>Sult.</speaker>
+                  <l>We yield conſent victorious Conqueror;</l>
+                  <l>the God you ſerve is great Omnipotent,</l>
+                  <l>ruling the day of battle as he pleaſe,</l>
+                  <l>making one hundred kill ten thouſand men,</l>
+                  <l>ſuch were the odds of our Battallions;</l>
+                  <l>therefore for <hi>Guy</hi> of <hi>Warwicks</hi> ſake,</l>
+                  <l>wee'l truſt in Chriſt, and <hi>Mahound</hi> clean forſake.</l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:13"/>
+                  <speaker>King.</speaker>
+                  <l>Then fit we honour'd to the Marble Tomb,</l>
+                  <l>where you ſhall have received your Chriſtendome,</l>
+                  <l>you and your Lords ſhall take a Solemne Oath,</l>
+                  <l>that all your Empery ſhall do the like;</l>
+                  <l>come on brave <hi>Guy,</hi> for by thy hand is done,</l>
+                  <l>this Everlaſting fame to Chriſtendome.</l>
+                  <stage>Exeunt King and Sultan.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Go on great Kings, I'le follow preſently,</l>
+                  <l>and now ſince all thoſe wars are at an end,</l>
+                  <l>and that my heavenly Maker hath vouchſaft</l>
+                  <l>to give me victory againſt his foes,</l>
+                  <l>in lowly Pilgrimage I vow to come,</l>
+                  <l>and viſit my dear Saviours bleſſed Tomb;</l>
+                  <l>there for an everlaſting memory,</l>
+                  <l>I'le offer up my ſword and furniture,</l>
+                  <l>and here I make a vow in ſight of Heaven,</l>
+                  <l>that henceforth i'le never bear Armes again,</l>
+                  <l>but ſpend the reſidue of my ſinful Life,</l>
+                  <l>in zealous Prayers and repentant Tears,</l>
+                  <l>for all the follies of my wretchleſſe youth.</l>
+                  <l>Now glorious God with thy Auſpicious eye,</l>
+                  <l>ſmile on this happy work that's thus began,</l>
+                  <l>to enlarge the fame of bleſſed Chriſtendome.</l>
+                  <stage>Exit.</stage>
+               </sp>
+            </div>
+            <div n="4" type="act">
+               <head>Actus Quartus.</head>
+               <stage>
+                  <hi>Enter</hi> Time.</stage>
+               <sp>
+                  <l>THus <hi>Time</hi> that in his ceaſleſſe motion,</l>
+                  <l>controuls the hearts of Kings and Emperours,</l>
+                  <l>hath now converted <hi>Sultan Shamurath</hi>
+                  </l>
+                  <l>to tread the path of perfect Chriſtendome;</l>
+                  <l>and now with <hi>Biſhops, Prieſts</hi> and <hi>Patriarks,</hi>
+                  </l>
+                  <l>they are returned back to <hi>Babylon,</hi>
+                  </l>
+                  <l>to Chriſten all that Heathen Nation;</l>
+                  <l>think this is done, and now again ſuppoſe,</l>
+                  <l>that <hi>Guy</hi> of <hi>Warwick</hi> after he had ſeen</l>
+                  <pb facs="tcp:56229:14"/>
+                  <l>his Saviours Tomb, and there had offered up</l>
+                  <l>as Monuments of laſting Memory;</l>
+                  <l>his ſword, his ſhield, and Warlike Furniture,</l>
+                  <l>he there vow'd never to bear Armes again,</l>
+                  <l>and now towards <hi>England</hi> is returning back.</l>
+                  <l>Imagine that Sir <hi>Raynborn</hi> his fair ſon,</l>
+                  <l>is grown a man, and hearing of the deeds</l>
+                  <l>of his great Father, leaveth all his Friends</l>
+                  <l>to ſeek him out in Forrain Nations.</l>
+                  <l>Think this is done, and now again ſuppoſe</l>
+                  <l>that <hi>Guy</hi> of <hi>Warwick</hi> now is waxen old,</l>
+                  <l>and at the length of many a weary ſtep,</l>
+                  <l>he comes to <hi>England,</hi> where perforce alas</l>
+                  <l>he muſt oppoſe, his weak decayed limbs</l>
+                  <l>againſt the vigor of a Gyants ſtrength;</l>
+                  <l>for now the <hi>Danes</hi> in abſence of this Lord,</l>
+                  <l>have ſet their feet ſo far on <hi>Englands</hi> ground,</l>
+                  <l>that they had almoſt conquered all the Land,</l>
+                  <l>and to a forced Parley drives the King;</l>
+                  <l>how they conclude, and by what means agree,</l>
+                  <l>
+                     <hi>Time</hi> ſhall make known to you immediately.</l>
+               </sp>
+               <stage>Exit Time.</stage>
+               <stage>
+                  <hi>Enter</hi> Swanus <hi>King of</hi> Denmark, <hi>with him</hi> Colbron.</stage>
+               <stage>
+                  <hi>Then</hi> Athelſtone <hi>King of</hi> England, <hi>with him</hi> Herod.</stage>
+               <sp>
+                  <speaker>Athelſtone.</speaker>
+                  <l>
+                     <hi>Swanus</hi> of <hi>Denmark,</hi> ſince to this Enter-view,</l>
+                  <l>by thee appointed, we here both are met,</l>
+                  <l>Speake what canſt thou demand from <hi>Englands</hi> Crown?</l>
+               </sp>
+               <sp>
+                  <speaker>Swanus.</speaker>
+                  <l>Thy Crown and Kingdome is by conqueſt won,</l>
+                  <l>yet if thou canſt provide a Champion,</l>
+                  <l>that dares encounter mighty <hi>Colbron</hi> here;</l>
+                  <l>if he that Fights for thee, do win the day,</l>
+                  <l>all Title to thy Crown wee'l lay away;</l>
+                  <l>but if that <hi>Colbron</hi> gets the day in field,</l>
+                  <l>the Engliſh power to the <hi>Danes</hi> ſhall yield;</l>
+                  <l>and then thy homage and thy Princely Crown,</l>
+                  <l>will <hi>Swanus</hi> bear to <hi>Denmark</hi> as his own.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>I force, perforce muſt yield to thy demand,</l>
+                  <pb facs="tcp:56229:14"/>
+                  <l>But had I <hi>Guy</hi> of <hi>Warwick</hi> thou ſhouldſt know,</l>
+                  <l>thy Gyants force he ſoon would overthrow.</l>
+               </sp>
+               <sp>
+                  <speaker>Colbron.</speaker>
+                  <l>I tell thee King, no weak-bred arm of thine,</l>
+                  <l>can ſhed one drop of mighty <hi>Colbrons</hi> blood,</l>
+                  <l>whilſt I have power, or any ſtrength to ſtand,</l>
+                  <l>or graſp this Truncheon in my Warlike hand;</l>
+                  <l>for in my Fury I will take my Foe,</l>
+                  <l>and fling him higher then the Moons bright ſphear,</l>
+                  <l>then bandying back the Foot-ball of my rage,</l>
+                  <l>caſt him down headlong to the Neighbouring Seas.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>No more, no more, to morrow is the day.</p>
+               </sp>
+               <sp>
+                  <speaker>Swanus.</speaker>
+                  <p>When Might or Right ſhall bear the Crown away.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Guy <hi>being Old.</hi>
+               </stage>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Thus one and Twenty Winters have I been,</l>
+                  <l>a very ſtranger to my home-bred ſoyle,</l>
+                  <l>and never ſet my Feet on Engliſh ground;</l>
+                  <l>in Foraign Countries have I eat my bread,</l>
+                  <l>and now bring Winter on my Snow white-head;</l>
+                  <l>which of my Friends that meets me by the way,</l>
+                  <l>will once imagine that I am Sir <hi>Guy,</hi>
+                  </l>
+                  <l>that vanquiſht Knights, and made ſtout Monſters die.</l>
+                  <l>O, no not one, will once remember me,</l>
+                  <l>beauty and youth ſo little laſting be.</l>
+                  <l>What place is this, wherein I am Arrived?</l>
+                  <l>I know it well, 'tis call'd fair <hi>Wincheſter,</hi>
+                  </l>
+                  <l>whereas King <hi>Athelſtone</hi> doth keep his Court,</l>
+                  <l>the nights far ſpent, and my age withered limbs,</l>
+                  <l>are weak, and weary, with long travelling;</l>
+                  <l>here will I ſit and reſt my ſelf a while,</l>
+                  <stage>He ſleepeth.</stage>
+                  <l>and with ſweet ſleep my wanward thoughts beguile.</l>
+                  <stage>Enter Athelſtone with Guy, diſguiſ'd.</stage>
+               </sp>
+               <sp>
+                  <speaker>Lord.</speaker>
+                  <l>What means your Majeſty, thus careleſly</l>
+                  <l>to walk abroad without your wonted Guard?</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>I'le have no Guard, unleſſe thy ſelf with me,</l>
+                  <l>for know this Night as I lay in my bed,</l>
+                  <pb facs="tcp:56229:15"/>
+                  <l>a bleſſed Angel bright and Chriſtaline</l>
+                  <l>in golden ſlumber did appear to me,</l>
+                  <l>bidding me walk out of my Caſtle Gate,</l>
+                  <l>and the firſt man that I ſhould meet withal,</l>
+                  <l>chooſe him my Champion to defend my right,</l>
+                  <l>which makes me riſe thus early for to ſee</l>
+                  <l>this heaven bred Champion ſent to let us free.</l>
+                  <stage>Guy ſtarts from his ſleep.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Give me my Sword, mine Armour, and my ſhield,</l>
+                  <l>that I may Coap with <hi>Hybean Hercules;</hi>
+                  </l>
+                  <l>the horrid villain in a Centaures ſhape</l>
+                  <l>hath raviſht <hi>Layda</hi> on her wedding day;</l>
+                  <l>therefore I hand to hand will Coap with him</l>
+                  <l>were he the Maſter Monſter of the world:</l>
+                  <l>alas where am I poor diſtreſſed Man?</l>
+                  <l>my troubled mind utters I know not what,</l>
+                  <l>thou Fight with Monſters, Fight thou with thy grave,</l>
+                  <l>and for thy ſins humble forgiveneſſe crave.</l>
+                  <l>But out alas, I fear I am o're-heard,</l>
+                  <stage>He eſpies the King walking.</stage>
+                  <l>I will enquire of theſe the ready way</l>
+                  <l>that leads directly to your City fair;</l>
+                  <l>good morrow, and God bleſſe you Gentleman.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <p>Good morrow Father.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>May I be bold to crave which is the way,</l>
+                  <l>that leads directly unto <hi>Wincheſter?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>This path good Father leads to <hi>Wincheſter.</hi>
+                  </l>
+                  <l>O heaven what ſhould I think my dream pretend,</l>
+                  <l>that will'd me chooſe the firſt man I ſhould meet;</l>
+                  <l>but this good Aged man is far unfit,</l>
+                  <l>yet will I ask his Counſel in this cauſe</l>
+                  <l>that may avail me far more then his ſtrength,</l>
+                  <l>good Father may a ſtranger be ſo bold</l>
+                  <l>to have ſome private conference with thy ſelf?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Speak on good Sir, and what ſo e're it be,</l>
+                  <l>My truth I give to keep it ſecretly.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>Then know good Father that I am a King,</l>
+                  <l>my Courts beſet with many Enemies,</l>
+                  <l>and this laſt night as I lay in my bed</l>
+                  <l>a Heavenly Viſion did appear to me,</l>
+                  <l>bidding me riſe up ſtreight and walk abroad;</l>
+                  <l>and the firſt man that I ſhould meet withal,</l>
+                  <pb facs="tcp:56229:15"/>
+                  <l>chooſe him my Champion to defend my right;</l>
+                  <l>thou Aged Father art the firſt I meet,</l>
+                  <l>but he that doth maintain this Fight,</l>
+                  <l>is a moſt monſtrous Gyant huge and ſtrong,</l>
+                  <l>and thou art feeble, weak and impotent,</l>
+                  <l>yet thy Counſel Father, what I were beſt to do?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Do as Heaven wills, ye do my Gracious Lord,</l>
+                  <l>if by the all fore-ſeeing power thereof,</l>
+                  <l>I am appointed for to do this deed;</l>
+                  <l>though I be old, yet you ſhall well perceive,</l>
+                  <l>I'le not give back nor yield one foot of ground;</l>
+                  <l>what though he be a Gyant that maintaines</l>
+                  <l>this deadly combate? ere I'le turn my face,</l>
+                  <l>I'le leave my body breathleſſe in this place.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>O how glad's my very Soul to ſee</l>
+                  <l>a youthful mind in Aged Livery!</l>
+                  <l>come Reverend Father, for thou now ſhalt be,</l>
+                  <l>a Kings companion that will honour thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Go on great King, an old man once will try,</l>
+                  <l>the Vigor of a churliſh Gyants ſtrength;</l>
+                  <l>though he be huge and ſtrong with whom I Fight,</l>
+                  <l>my God is juſt and ſtill maintaines the right.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Swanus <hi>and</hi> Colbron.</stage>
+               <sp>
+                  <speaker>Swanus.</speaker>
+                  <l>Now <hi>Colbron</hi> rowſe thy Gyants ſetled-limbs,</l>
+                  <l>for all our bleſſed hopes on thee we lay,</l>
+                  <l>thinking to bear the Engliſh Crown away.</l>
+               </sp>
+               <sp>
+                  <speaker>Colbr.</speaker>
+                  <l>I tell thee King thou troubleſt me with doubts,</l>
+                  <l>for halfe their Kingdome is already won<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>by <hi>Colbron</hi> and the <hi>Daniſh</hi> Conquerours,</l>
+                  <l>upon the reſt I will ſharp vengeance take.</l>
+                  <l>Where are theſe faiat-hearts? O that they were come,</l>
+                  <l>that I might finiſh up a day of Doom!</l>
+               </sp>
+               <sp>
+                  <speaker>Swanus.</speaker>
+                  <l>I hear them coming, therefore lets prepare,</l>
+                  <l>to bid them welcome to a bloody feaſt,</l>
+                  <stage>Enter Athelſtone with Guy and others.</stage>
+               </sp>
+               <l>for I perceive they all are reſolute.</l>
+               <sp>
+                  <speaker>Athelſtone.</speaker>
+                  <l>
+                     <hi>Swanus o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Denmark,</hi> ſee wee keep our word,</l>
+                  <l>and come to try our right by dint of Sword.</l>
+               </sp>
+               <sp>
+                  <speaker>Swa.</speaker>
+                  <p>Bring forth thy Champion.</p>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <p>Here he ſtands prepar'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Swanus.</speaker>
+                  <l>O, who? he alas poor ſilly man,</l>
+                  <l>give him a pair of Beads to pray upon.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſtone.</speaker>
+                  <l>Scorn him not <hi>Swanus,</hi> for this old mans hand,</l>
+                  <l>againſt thy mighty Gyants force ſhall ſtand.</l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:16"/>
+                  <speaker>Colbron.</speaker>
+                  <l>Muſt <hi>Colbron</hi> Fight with ſuch a withered Ghoſt,</l>
+                  <l>a very ſhrimp, a worm, a gnat, a fly,</l>
+                  <l>I ſcorn him and will ſpurn him at my feet.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Leave of thy braves, blaſpheming heathen dog,</l>
+                  <l>for God whoſe quarrel I do take in hand</l>
+                  <l>will add freſh ſtrength to theſe my withered limbs,</l>
+                  <l>theſe aged ſinews that are weak and old,</l>
+                  <l>he can renew with monſter conquering ſtrength;</l>
+                  <l>therefore to ſhew, I do not fear thy threats,</l>
+                  <l>ſound an Alarum lets begin the Fight,</l>
+                  <l>for with my Palmers ſtaffe i'le coap with thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>Thou ſhalt not hazard ſo thy honoured age,</l>
+                  <l>begirt thy ſelf with theſe wars Ornaments.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>What ſhall I do? unhappy wretched man,</l>
+                  <l>for when I left the wars of <hi>Paleſtine;</hi>
+                  </l>
+                  <l>I made a vow even in the ſight of Heaven</l>
+                  <l>never to Fight with Sword or Shield again;</l>
+                  <l>but I muſt break that vow, or leave this Land,</l>
+                  <l>my Native Country to the violent hand;</l>
+                  <l>of damned Uſurpers, which ſhall never be,</l>
+                  <l>I'le break my Oath, and ſweet Heaven pardon me.</l>
+                  <l>Here do I take this Sword into my hand,</l>
+                  <l>and buckle faſt this ſhield unto my Arme,</l>
+                  <l>although I know it is no armed hand</l>
+                  <l>that can prevail, but Heaven where truth doth ſtand;</l>
+                  <l>and now thou great Arch-guyder of the world,</l>
+                  <l>that ſaved <hi>Daniell</hi> in the Lyons Den,</l>
+                  <l>look down on me, with thy all-pitious Eyes,</l>
+                  <l>and by my Hand vanquiſh thy Enemies,</l>
+                  <l>that all may ſay in Glory to thy name,</l>
+                  <l>that little <hi>David</hi> hath <hi>Goliath</hi> ſlain;</l>
+                  <l>St. <hi>George</hi> for <hi>England,</hi> lets begin the Fight,</l>
+                  <l>Angels by me defend fair <hi>Englands</hi> right.</l>
+               </sp>
+               <sp>
+                  <speaker>Colbron.</speaker>
+                  <l>In <hi>Mahounds</hi> name I do thee here defie,</l>
+                  <l>for I will cruſh thy bones immediately.</l>
+                  <stage>They Fight, Guy killeth Colbron.</stage>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>St. <hi>George,</hi> St. <hi>George, England</hi> hath prevail'd,</l>
+                  <pb facs="tcp:56229:16"/>
+                  <l>and <hi>Denmark</hi> and his Champion now are quaild.</l>
+               </sp>
+               <sp>
+                  <speaker>Swa.</speaker>
+                  <l>
+                     <hi>Mahound</hi> Confound that old mans helliſh Arme,</l>
+                  <l>that hath wrought <hi>Englands</hi> good, and <hi>Denmarks</hi> harm;</l>
+                  <l>now force perforce, to <hi>Denmark</hi> we muſt go,</l>
+                  <l>ne're had the <hi>Danes</hi> ſo great an overthrow.</l>
+                  <stage>Exit Swanus.</stage>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>Since by thy means moſt Reverend Aged Man,</l>
+                  <l>I and my Country are delivered,</l>
+                  <l>from the uſurping <hi>Daniſh</hi> Tyrants power,</l>
+                  <l>I conjure thee by that holy vow</l>
+                  <l>which thou didſt make in taking on this weed,</l>
+                  <l>of thy religious holy pilgrimage;</l>
+                  <l>tell me thy name, and what thy Countries call'd,</l>
+                  <l>which was ſo happy as to Foſter thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Upon Condition that your Majeſty,</l>
+                  <l>will vow to keep cloſe what I ſhall reveal,</l>
+                  <l>I will reſolve your princely mind at full.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>Speak freely then, for what ſo e're it be,</l>
+                  <l>upon my word I'le keep it ſecretly.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>I take your princely word then know great King,</l>
+                  <l>I am your Subject and in <hi>England</hi> born,</l>
+                  <l>and many favours have receiv'd of you,</l>
+                  <l>paſt the deſerts of my unworthineſſe;</l>
+                  <l>for which it glads my ſoul that e're I dye,</l>
+                  <l>I have done ſome ſervice for your Majeſty.</l>
+                  <l>When I was young, men knew me by my looks,</l>
+                  <l>but now the hand of age hath chang'd me ſo,</l>
+                  <l>that not one man doth <hi>Guy</hi> of <hi>Warwick</hi> know.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>So ſaid my ſoul, when I firſt ſaw thy face,</l>
+                  <l>welcome, O welcome, to thy Native ſoile,</l>
+                  <l>which thou haſt freed from ruine and from ſpoil;</l>
+                  <l>and ten times welcome art thou unto me,</l>
+                  <l>thy abſence long hath wrought my miſery,</l>
+                  <l>But tell me, haſt thou ſeen fair <hi>Phillis</hi> yet?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>My Lord I have not, nor I do not know,</l>
+                  <l>whether my beloved <hi>Phillis</hi> lives or no.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>I can aſſure thee that thy <hi>Phillis</hi> lives,</l>
+                  <l>but her old Father <hi>Rohon</hi> he is dead;</l>
+                  <l>Sir <hi>Rainborn</hi> thy couragious hearted Son,</l>
+                  <stage>Guy weeps.</stage>
+                  <pb facs="tcp:56229:17"/>
+                  <l>hath been theſe two years for to ſeek thee out,</l>
+                  <l>why weepſt thou <hi>Guy?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>I weep for joy to hear this happy news,</l>
+                  <l>hath <hi>Guy</hi> of <hi>Warwick</hi> then a Kingly Son?</l>
+                  <l>and is fair <hi>Phillis</hi> ſtill in perfect health?</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>She is good <hi>Guy,</hi> and i'le ſend ſpeedy poſt,</l>
+                  <l>to <hi>Warwick</hi> Caſtle for to fetch her hither.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>O I beſeech your grace to give me leave,</l>
+                  <l>an end of this my Pilgrimage to make;</l>
+                  <l>for when I took my way <hi>Paleſtine,</hi>
+                  </l>
+                  <l>I made a vow for ſeven and twenty years</l>
+                  <l>to keep my ſelf unknown from all my Friends;</l>
+                  <l>full one and twenty are expired and gone,</l>
+                  <l>ſix more being paſt, I from my vow am free,</l>
+                  <l>and then to all my friends diſclos'd i'le be.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>I muſt conſent, ſince thou will have it ſo,</l>
+                  <l>but at the ſix years end i'le come to thee,</l>
+                  <l>and with me I will bring ſo rich a Train,</l>
+                  <l>as ſhall in ſtate, bring <hi>Warwick</hi> home again;</l>
+                  <l>till then I leave thee to thy ſweet content,</l>
+                  <l>willing my life for thy good be ſpent.</l>
+                  <stage>Exit King.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Farewel my Liege, Farewel my Soveraigne,</l>
+                  <l>and now poor <hi>Guy,</hi> ſince thou art left alone,</l>
+                  <l>think on thy Makers mighty love to thee,</l>
+                  <l>who in thy youth did make thee fear'd of all,</l>
+                  <l>and by thine age hath wrought a monſtrous fall;</l>
+                  <l>he hath preſerv'd thy true and faithful Wife,</l>
+                  <l>whom thou didſt love more dearer then thy Life;</l>
+                  <l>to her i'le go as faſt as I can hye,</l>
+                  <l>but ſhee'l not think that <hi>VVarwick</hi> is ſo nigh:</l>
+                  <l>ah <hi>Phillis,</hi> now thy Lord is waxen old,</l>
+                  <l>who when thou ſaweſt him laſt was ſtout and bold;</l>
+                  <l>yet as I am, I'le ſek my <hi>Phillis</hi> Face,</l>
+                  <l>if he that made me gives me Life and ſpace,</l>
+                  <l>I'le tell her tydings of mine own eſtate,</l>
+                  <l>and fetch my food at my own Caſtle Gate;</l>
+                  <l>And for ſix yea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s which I alone muſt lead.</l>
+                  <l>
+                     <hi>Phillis</hi> muſt feed her unknown Lord with bread.</l>
+                  <stage>Exit.</stage>
+               </sp>
+            </div>
+            <div n="5" type="act">
+               <pb facs="tcp:56229:17"/>
+               <head>Actus Quintus.</head>
+               <stage>Enter <hi>Time.</hi>
+               </stage>
+               <l>
+                  <hi>THus</hi> Guy <hi>to</hi> Warwick <hi>Caſtle now is gone,</hi>
+               </l>
+               <l>
+                  <hi>where hearing of the Almes fair</hi> Phillis <hi>gives</hi>
+               </l>
+               <l>
+                  <hi>to</hi> Palmers, <hi>that do daily paſſe that way;</hi>
+               </l>
+               <l>
+                  <hi>he thither goes, and at her hand receives</hi>
+               </l>
+               <l>
+                  <hi>his daily food; and being unknown,</hi>
+               </l>
+               <l>
+                  <hi>he tells her tidings of his own eſtate;</hi>
+               </l>
+               <l>
+                  <hi>and in a forreſt not far from the place,</hi>
+               </l>
+               <l>
+                  <hi>a mile diſtant called</hi> Arden <hi>wood,</hi>
+               </l>
+               <l>
+                  <hi>with his own hands he builds himſelf a Cave.</hi>
+               </l>
+               <l>
+                  <hi>What followes now of</hi> Rainborn <hi>his fair Son,</hi>
+               </l>
+               <l>
+                  <hi>Sir</hi> Herodes <hi>meeting, and of their return,</hi>
+               </l>
+               <l>
+                  <hi>and what to</hi> Guy <hi>of</hi> Warwick <hi>doth befall,</hi>
+               </l>
+               <l>
+                  <hi>ſit pleas'd a while and</hi> Time <hi>ſhall ſhew you all.</hi>
+               </l>
+               <stage>Exit Time.</stage>
+               <stage>
+                  <hi>Enter</hi> Guy <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Now am I come in ſight of my fair Home,</l>
+                  <l>thats cal'd <hi>Guye</hi>'s Croſſe, for that I did erect,</l>
+                  <l>before I went to fair <hi>Jeruſalem;</hi>
+                  </l>
+                  <l>here was I wont to ſit and view my Land,</l>
+                  <l>and eke my Caſtle that on Tiptoes ſtand,</l>
+                  <l>to overpeer this part of <hi>Warwick ſhire.</hi>
+                  </l>
+                  <stage>Enter two Palmers.</stage>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Palmer.</hi>
+                  </speaker>
+                  <l>Come hither, lets a little mend our pace,</l>
+                  <l>for we are near to <hi>Warwick</hi> Caſtle now;</l>
+                  <l>where I have heard of late fair <hi>Phillis</hi> dwells,</l>
+                  <l>who gives Almes to all that paſſe that way.</l>
+               </sp>
+               <sp>
+                  <speaker>2 <hi>Pal.</hi>
+                  </speaker>
+                  <l>Good brother lets go thither preſently;</l>
+                  <l>but ſtay, methinks here ſits an Aged man,</l>
+                  <l>lets ask him if hee'l go along with us?</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Pal.</hi>
+                  </speaker>
+                  <l>With all my heart;</l>
+                  <l>all happineſſe attend you Aged Father.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>The like I wiſh to you good gentle Friends.</p>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Pal.</hi>
+                  </speaker>
+                  <l>May we intreat you go along with us,</l>
+                  <pb facs="tcp:56229:18"/>
+                  <l>to <hi>Warwick</hi> Caſtle, where fair <hi>Phillis</hi> dwells,</l>
+                  <l>who giveth Almes to all ſuch as we are.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>With all my heart, I'le go along with you.</p>
+                  <stage>
+                     <hi>Enter</hi> Phillis, <hi>and a Servant with Bread and Wine,</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Pal.</hi>
+                  </speaker>
+                  <l>See where ſhe comes out of her Caſtle Gate.</l>
+                  <stage>
+                     <hi>Both</hi> Palmers <hi>kneel and pray.</hi>
+                  </stage>
+                  <l>Heaven bleſſe fair <hi>Phillis</hi> for this deed,</l>
+                  <l>and ſend Sir <hi>Guy</hi> of <hi>VVarwick</hi> home with ſpeed.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>Amen, Amen, come give them a reward,</l>
+                  <l>there's Bread and Wine, eat and refreſh your ſelves;</l>
+                  <l>and there's ſome Money to relieve your wants,</l>
+                  <l>and pray for <hi>Guy</hi> of <hi>VVarwick</hi> and his Friends.</l>
+                  <l>But wherefore ſtands this Aged man ſo ſad?</l>
+                  <l>What art thou Father?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>A poor diſtreſſed Pilgrime gentle Lady.</p>
+               </sp>
+               <sp>
+                  <speaker>Phill.</speaker>
+                  <l>More welcome art thou unto <hi>Warwicks</hi> Wife.</l>
+                  <l>for in a Pilgrims weed my Lord is gone,</l>
+                  <l>even to the furtheſt part of Chriſtendome.</l>
+                  <l>But tell me Father, haſt thou travel'd far?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Lady I have, and ſeen my Saviours bleſſed Sepulchre.</p>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>In all thy travels didſt thou never hear</l>
+                  <l>of <hi>Guy</hi> of <hi>VVarwick,</hi> and his Warlike Deeds?</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>I have both heard, and been with him,</l>
+                  <l>even at the ſiege of fair <hi>Jeruſalem;</hi>
+                  </l>
+                  <l>where he perform'd ſuch deeds of Chivalry,</l>
+                  <l>that by his means the City was preſerv'd,</l>
+                  <l>and <hi>Sultan Shamurath</hi> with all his Hoaſt,</l>
+                  <l>was overcome and holy vanquiſhed.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>Let me embrace thee in my tender Armes,</l>
+                  <l>and kiſſe thy Aged Cheek, for until now,</l>
+                  <l>of my dear Lord, I never heard ſo much;</l>
+                  <l>reach me a ſtool, I prethee Father ſit.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Here on the ground I'le ſit, tis earth and duſt,</l>
+                  <l>from it I had my Birth, to it I muſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <p>Give me ſome Bread? I prethee Father Eat.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>Give me Brown Bread, for thats a Pilgrimes Meat.</p>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <p>Reach me ſome Wine, good Father taſt of this.</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Give me cold Water that my comfort is,</l>
+                  <pb facs="tcp:56229:18"/>
+                  <l>I tell ye Lady your great Lord and I,</l>
+                  <l>have thought our ſelves as happy as a King,</l>
+                  <l>to drink the water of a Chriſtal ſpring.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>O do not break my ſorrow beaten heart,</l>
+                  <l>with ſharp remembrance of his miſeries,</l>
+                  <l>that is more dear to me then all the world;</l>
+                  <l>but gentle Father for this happy newes,</l>
+                  <l>which thou haſt told me of my beloved Lord;</l>
+                  <l>if in my Caſtle thou wilt ſtay with me,</l>
+                  <l>for <hi>VVarwicks</hi> ſake I will make much of thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>I thank you Lady, but I cannot ſtay,</l>
+                  <l>my haſt in Pilgrimage calls me away;</l>
+                  <l>therefore in duty here I take my leave.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>O ſtay a while, and do not go ſo ſoon,</l>
+                  <l>for I am loth to leave thy company;</l>
+                  <l>this poor reward of <hi>Phillis</hi> ſhalt thou take,</l>
+                  <l>which I do give thee for my <hi>Warwicks</hi> ſake;</l>
+                  <l>ſo fare thee well, whatſoe're the cauſe ſhould be,</l>
+                  <l>my heart is full of grief to part with thee.</l>
+                  <stage>Exit Phillis and her Servant.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <p>And mine of ſorrow and deep miſery.</p>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Pal.</hi>
+                  </speaker>
+                  <p>Come Father, will you along with us?</p>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Go on good friends, I follow preſently,</l>
+                  <stage>Ex. Palmers.</stage>
+                  <l>as faſt as weakned age will give me leave.</l>
+                  <l>And now poor <hi>Guy</hi> fall proſtrate on thy knees,</l>
+                  <l>and thank the God that gave thee ſuch a Wife;</l>
+                  <l>
+                     <hi>Phillis</hi> when thou art dead and laid in grave,</l>
+                  <l>few ſuch true Women will fair <hi>England</hi> have.</l>
+                  <l>Now will I hye me unto <hi>Arden</hi> wood,</l>
+                  <l>there in a Rock of ſtone I'le build a Cave;</l>
+                  <l>and of my <hi>Phillis</hi> fair, whom I love beſt,</l>
+                  <l>i'le fetch my daily Food, and thus in reſt</l>
+                  <l>till full fix years be brought unto an end,</l>
+                  <l>unknown to any, I my life will ſpend.</l>
+                  <stage>Exit Guy.</stage>
+               </sp>
+               <stage>
+                  <pb facs="tcp:56229:19"/>
+                  <hi>Enter</hi> Rainborne <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>Now that the poaſting Charet of the Sonne,</l>
+                  <l>hath tired <hi>Phoebus</hi> and his wanton ſteeds,</l>
+                  <l>the duskey Clouds hath cloſed up the day,</l>
+                  <l>and <hi>Heſperus</hi> is left to guide the world;</l>
+                  <l>Here <hi>Rainborne</hi> reſt thy ſelf within theſe woods,</l>
+                  <l>and give thy weary limbs ſome time of ſtay,</l>
+                  <l>until that <hi>Phoebus</hi> chaſe the night away;</l>
+                  <l>then will I buckle on my Armes again,</l>
+                  <l>and never ceaſe purſuit till I have found</l>
+                  <l>my Warlike Father, the renown'd Sir <hi>Guy,</hi>
+                  </l>
+                  <stage>He ſits down.</stage>
+                  <l>which I will doe, or in this journy dye.</l>
+               </sp>
+               <sp>
+                  <speaker>Enter Sparrow.</speaker>
+                  <p>A Pilgrimage quotha, marry here's a Pilgri<g ref="char:EOLhyphen"/>mage indeed, why? I have loſt my Maſter, and have been this fortnight in a Wood, where I have eat nothing but Hips and Hawes, that ye may make Fiddle ſtrings of my Guts they are ſo thin: but I am ſerv'd well enough; for when I was at home with my old Father, where I had my belly full of Beef and Bag-pudding, but I muſt be Travelling with a Peſtilence.</p>
+                  <stage>He eſpies Rainborne.</stage>
+                  <p>But ſtay, who have we here? ſome Traveller I hold my Life on't, I care not greatly if I knock out his Brains, and then take away all his Money, yet ſure he has not much, he has ſuch fine Cloaths on; for commonly now adaies our Gallants in their Silkes and Velvets have the Divel dancing in their great Hoſe; for there's never a croſſe to hinder him, therefore I'le wake him ſure, Whoop whow, <hi>&amp;c.</hi>
+                  </p>
+                  <stage>He Hollowes in his Ear.</stage>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>How now Sirrah, what are you?</p>
+               </sp>
+               <sp>
+                  <speaker>Sparrow.</speaker>
+                  <p>A Curſtian, what art thou?</p>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>Art thou a Chriſtian? prethee where wer't born?</p>
+               </sp>
+               <sp>
+                  <speaker>Sparrow.</speaker>
+                  <p>Ifaith Sir I was born in <hi>England</hi> at <hi>Stratford</hi> upon <hi>Aven</hi> in <hi>Warwickſhire.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>Wer't born in <hi>England?</hi> what's thy name?</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:19"/>
+                  <speaker>Sparrow.</speaker>
+                  <p>Nay I have a fine finical name, I can tell ye, for my name is <hi>Sparrow;</hi> yet I am not no houſe <hi>Sparrow,</hi> nor no hedge <hi>Sparrow,</hi> nor no peaking <hi>Sparrow,</hi> nor no ſneaking <hi>Sparrow,</hi> but I am a high mounting Iofty minded <hi>Sparrow,</hi> and that <hi>Parnell</hi> knows well enough, and a good many more of the pretty Wenches of our Pariſh ifaith.</p>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>Very well Sir, what make you here in theſe Countries?</p>
+               </sp>
+               <sp>
+                  <speaker>Sparrow.</speaker>
+                  <p>Marry I have loſt a ſtray Maſter, can you tell me any tidings of him?</p>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>What was thy Maſters name?</p>
+               </sp>
+               <sp>
+                  <speaker>Sparrow.</speaker>
+                  <p>My Maſters Name, why you would not hear it would ye?</p>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>Yes ſir that I would.</p>
+               </sp>
+               <sp>
+                  <speaker>Sparrow.</speaker>
+                  <p>Well he has a tickling name I can tell ye.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Howſoever let me hear it.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Yes you ſhall hear it, he is cal'd the moſt Couragious, Bravagious, Contagious; but do you hear young Gentleman, have ye ever another ſuit of apparel ne're hand.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>VVhy Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>VVhy truly all will not be well with ye if you hear my Maſters name; therefore I would wiſh you take heed what ye doe, for you'l perfume that, ſo that ye will have need of another.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Sirrah leave your prating, and let me hear it.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Nay ye ſhall hear it, he is called the moſt Renowned, Profounded, Compounded; but heark ye, have ye ever a clean ſhirt about ye?</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>VVhy Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>VVhy? I know if you hear my Maſters name you'l blow your Noſe backward, and then your Landreſſe will call you Sloven.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Why ye baſe Peſant, ſhall I not hear his Name?</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>O Lord Sir, ye are deceived! I am no Pheſant, though I be a <hi>Sparrow,</hi> yet you ſhall hear my Maſters name, he is called Sir <hi>Guy</hi> of <hi>Warwick.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Sir <hi>Guy</hi> of <hi>Warwick,</hi> my Renowned Father.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Thy Father, thy Halter, indeed when I came out of
+<pb facs="tcp:56229:20"/>
+                     <hi>England</hi> I left a Wench pretty and plump, thou may'ſt be my Son, if thou beeſt, kneel down and ask me bleſſing, and i'le give thee two pence.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Away you baſe ſlave.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Why doſt thou think ſcorn to ask me bleſſing?</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>I Sir that I do.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Then I think ſcorn to give thee my two pence.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain</speaker>
+                  <l>Sir leave this talk and tell me certainly,</l>
+                  <l>where brave Sir <hi>Guy</hi> at this time doth remain,</l>
+                  <l>and with rich gifts I will requite thy pains.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>VVill ye ſo, why the laſt time I ſaw him he and I were going towards <hi>England,</hi> and in the midſt of a great wood I loſt him, but I had better have been hang'd or ſome worſe miſ<g ref="char:EOLhyphen"/>chance come to me, for I am like never to get-home as long as I live.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>Nay fear not that, for if thou't ſtay with me,</l>
+                  <l>for <hi>VVarwicks</hi> ſake I will make much of thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>But are you Sir <hi>Guy</hi> of <hi>VVarwicks</hi> Son?</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Upon my Knightly word I am.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Faith I doubt you are ſome lying Hangman; for in<g ref="char:EOLhyphen"/>deed we Travellers may lye by Authority; but I'le tell ye what I'le doe, ſtay you here till I go into <hi>England,</hi> and ask your Mother, if ſhe ſayes ſo, I'le come again and then I'le dwell with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Nay ſtay Sir, for it is above a Thouſand mile into <hi>England.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>A Thouſand mile, nay ſure i'le take your word before i'le go ſo far to try the matter, but if I ſhould be content to dwell with you, what dyet will you allow me?</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>Why Sirrah? to your Dinner you ſhall have a Pom<g ref="char:EOLhyphen"/>garnate.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>A pound of Garlike, why I never eat Garlike in all my Life;</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>I ſay a Pomegarnate, which is almoſt like an Apple.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Apples to my Dinner, and what to my Supper? quick<g ref="char:EOLhyphen"/>ly, quickly.</p>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>Why to your Supper you ſhall have a Couple of Olives.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:56229:20"/>
+                  <speaker>Spar.</speaker>
+                  <p>Nay that's not much amiſſe, for that is two leggs of Beef ſtuft with Parſley.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>You are deceived Sirrah, for an Olive is no bigger then a Plum.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>How Apples to my Dinner, and Plums to my Supper, O my belly, my belly, my belly; why Maſter you have kil'd me already, but i'le tell ye how ye muſt uſe me; at Eight of Clock you muſt call me up; but ye muſt not make too much haſt, for I muſt have half an hours ſcratching before I can put on my Shirt; then betwixt nine and ten I muſt be at break<g ref="char:EOLhyphen"/>faſt, and from eleven to one at Dinner, then I muſt go to ſleep till three, then I muſt have my Afternoons Nunching, then at five of the Clock my Supper; and then what work you will all the day after, but you muſt not feed me with Apples and Plums, for I muſt have my fill five times a day of Beef, Brewis, Bag-Puddings and Pies. Oh how my Teeth waters to think on them, beſides odd bits in a Corner; and if you'l deal thus with me, I'le dwell with you, and doe all this that I have promiſed you.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>That's eat your Victuals and ſleep.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Why aye and ſomething elſe too, though it be no great manners to ſpeak on't.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>But art thou ſure my Father is gone for <hi>England?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Am I ſure? why I tell ye, he is in <hi>England</hi> long ago.</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>Why then in haſt i'le poſt to <hi>England</hi> now.</l>
+                  <l>but I'le not tarry in it, nor elſe where,</l>
+                  <l>unleſſe I find my Warlike Father there;</l>
+                  <l>Come <hi>Sparrow</hi> follow me.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Do you hear young Maſter, though you be my Maſter, yet I am your Elder, and therefore your better, and alwaies while ye live, learn to let your betters go afore ye.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Guy <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Thus have I almoſt brought unto an end,</l>
+                  <l>the tedious time of my long Pilgrimage,</l>
+                  <l>for of my ſeven and twenty years remains</l>
+                  <pb facs="tcp:56229:21"/>
+                  <l>only ſeven days to be accompliſhed.</l>
+                  <l>The longeſt Summers day comes to an end;</l>
+                  <l>The dials point though none perceive it ſtur,</l>
+                  <l>in length of time creeps round about the ſame;</l>
+                  <l>even ſo this long thought time is almoſt ſpent,</l>
+                  <l>onely ſeven dayes to come, and I am free,</l>
+                  <l>and then to all my Friends diſclos'd i'le be.</l>
+                  <stage>Enter an Angell.</stage>
+               </sp>
+               <sp>
+                  <speaker>Angell.</speaker>
+                  <l>Thou bleſſed Champion of the higheſt Heaven,</l>
+                  <l>be firme in faith, and here my meſſage out,</l>
+                  <l>for my great Maſter ſends thee word by me,</l>
+                  <l>that ſeven dayes being paſt thou ſure ſhalt dye;</l>
+                  <l>tears change not fate, poor pilgrime now farewel</l>
+                  <l>go meet more joyes then Angels Tongues can tell.</l>
+                  <stage>Exit Angell.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Welcome O welcome be thy glorious will,</l>
+                  <l>thou great Archfactor of the Firmament.</l>
+                  <l>O hadſt thou let me lain but one day more,</l>
+                  <l>to have reveal'd my ſelf unto my Wife,</l>
+                  <l>my dear, dear <hi>Phillis,</hi> who languiſheth in pain,</l>
+                  <l>hoping to ſee her aged Lord again.</l>
+                  <l>Then had I been contented for to dye,</l>
+                  <l>So am I now, thou muſt be pleas'd, not I.</l>
+                  <l>Yet <hi>Guy</hi> bethink thee what thou haſt to do,</l>
+                  <l>wilt thou not make thy ſelf known to thy Wiſe?</l>
+                  <l>but thus unknown to any loſe thy Life?</l>
+                  <l>where no man ne're ſhall hear of thee at all,</l>
+                  <l>nor give thy body Chriſtian burial;</l>
+                  <l>Yes, I will hye me ſtrair to <hi>Phillis</hi> Gate,</l>
+                  <l>and there reveal my ſelf and my eſtate,</l>
+                  <l>and my dear <hi>Phillis,</hi> whom I loved beſt,</l>
+                  <l>ſhall cloſe mine eyes, and bring my ſoul to reſt.</l>
+                  <l>But wilt thou break that vow of ſanctity,</l>
+                  <l>which thou didſt make to him, that hath made thee;</l>
+                  <l>and ſeek to contradict his holy will,</l>
+                  <l>that hath ſhew'd ſuch great mercies to thee ſtill:</l>
+                  <l>O God forbid! That vow true kept ſhall be,</l>
+                  <l>I'le commit all to him that ſaved me.</l>
+                  <pb facs="tcp:56229:21"/>
+                  <l>and when I dye, inſtead of Tomb or Grave,</l>
+                  <l>I'le leave my body in my ſtone cold Cave.</l>
+                  <l>Thither I will, and ſpend my ſhort ſweet dayes,</l>
+                  <l>in contemplation and in holy pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers;</l>
+                  <l>I poor old <hi>Guy</hi> go hye and haſt thee thither,</l>
+                  <l>for life and Pilprimage muſt end together.</l>
+                  <stage>Exit.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Sparrow <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sparrow.</speaker>
+                  <p>Ha, ha, the world's well amended with me by-Lady, why? I am as plumb as a pudding now, for ever fince I came to my young Maſter, I have been ſo puſt up with good chear, that Barly puddings are no meat, nor Cheeſe-cakes, nor Cuſtards, no banquetting ſtuffe with me; for as ſoon as ever we ca, me into <hi>England,</hi> my young Maſter goes to the Court preſent<g ref="char:EOLhyphen"/>ly where he and I were Counterpain'd with ſuch implements as paſſes; I am toſt up and down like a Shittlecock in every bo<g ref="char:EOLhyphen"/>dies mouth; for who but Maſter <hi>Sparrow,</hi> the greateſt Traveller that has been at coſt twenty <hi>Nobles</hi> and <hi>Jerico,</hi> and I cannot tell ye where; but for all that I was ſerv'd a Sluttiſh trick to day, for my Maſter being bidden to great a Gentlemans houſe to din ner, took me along with him to wait at the Table; wel as they were at Dinner, the Serving men as they took off the meat ſet it before the fire to keep it warm for themſelves: I ſeeing the good chear ſtanding in battle Ray, and having not broke my faſt of all day, I began to draw near the fire, and look over my ſhoulder upon the victuals, at laſt I ſpyed a Fat legg of Pork; O how my Teeth did water to look upon't! I had not ſtood long, but ſeeing every body buſie, I whipt the legg of Pork into my Pocket, and ſtood very mannerly with my hands at my back, as though I had done nothing; but it was not long, e're the Fat Pork with the heat of the Fire began to fry out of my Slops, &amp; all the dogs in the Houſe came Snukering and licking about my Breeches, and not content with that, but one unmannerly Cur above all the reſt, popt his Noſe into my Pocket, ſnatcht out the leg of Pork, &amp; tore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>way all the tone ſide of my Breeches, that I was ſain to go out edgling like a Crab ifaith; put i'le ne're
+<pb facs="tcp:56229:22"/>ſteal Pork again while I live, i'le have one bit of Mutton what<g ref="char:EOLhyphen"/>ſome're comes on't ifaith.</p>
+                  <stage>Exit Sparrow.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Guy <hi>being in his Cave, to him the</hi> Angell.</stage>
+               <sp>
+                  <speaker>Ange'l.</speaker>
+                  <l>Now <hi>Guy</hi> of <hi>Warwick</hi> is accompliſhed,</l>
+                  <l>the full effect of all thy Pilgrimage,</l>
+                  <l>then riſe and pray, thy ſins may be forgiven,</l>
+                  <l>for Angels wait to bear thy ſoul to Heaven.</l>
+                  <stage>Exit Angell.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Gods will be done, I am reſolv'd to dye,</l>
+                  <l>and have askt mercy at the hands of him</l>
+                  <l>that gave me Life, and now will take the ſame.</l>
+                  <l>O what a pretious ſoul hath ſinful man!</l>
+                  <l>that in it ſelf alone does comprehend</l>
+                  <l>the figure, ſtate, and lineaments of Heaven,</l>
+                  <l>yet cannot meaſure nor define it ſelf;</l>
+                  <l>ſo when that all great workmen of the world,</l>
+                  <l>had fram'd mans fleſh out of a clod of clay,</l>
+                  <l>and all the Creatures of the Univerſal world,</l>
+                  <l>of the ſame mould, to whom his very word</l>
+                  <l>gave preſent life onely in mans breſt,</l>
+                  <l>that vil'd ambitious ſinful heap of droſſe;</l>
+                  <l>he breathd his own breath, even the breath of heaven,</l>
+                  <l>that is the glorious ſoul we now poſſeſſe,</l>
+                  <l>which is immortal and can never dye.</l>
+                  <l>Yet he that late was fram'd of Mire and filth,</l>
+                  <l>plac'd in a glorious ſtate of innocence,</l>
+                  <l>was not content, but ſtriv'd to be as good</l>
+                  <l>as his great maker, who could with one word,</l>
+                  <l>throw him down headlong to the deepeſt Hell;</l>
+                  <l>yet he in Mercy, Love, and meer good will,</l>
+                  <l>did grant him pardon for his ſoul offence;</l>
+                  <l>and ſeeing him unable to perform</l>
+                  <l>his bleſſed will, did ſend his own dear Son</l>
+                  <l>to pay his ranſome with his pretious blood,</l>
+                  <l>and to redeem that ſoul which ſinful man,</l>
+                  <l>had forfeited to Satan, Death and He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l;</l>
+                  <pb facs="tcp:56229:22"/>
+                  <l>and for a death dam'd curſed and unpure,</l>
+                  <l>he gave him life eternal to indure;</l>
+                  <l>which life eternal, grant ſweet Chriſt to me,</l>
+                  <l>that in Heavens joyes I may thy glory ſee.</l>
+               </sp>
+               <stage>Enter Rainborne and Herod of Arden with Sparrow.</stage>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>Go good Sir <hi>Herod</hi> Poſt and meet the King,</l>
+                  <l>who now is coming with his warlike Troops,</l>
+                  <l>to meet my Father and to honour him,</l>
+                  <l>in his return from fair <hi>Jeruſalem.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Herod.</speaker>
+                  <l>Hie you to <hi>Warwick</hi> Caſtle to your Mother,</l>
+                  <l>tell her this happy news of his return,</l>
+                  <l>whoſe abſence long hath made her weep and mourn.</l>
+                  <l>Come <hi>Sparrow</hi> you ſhall go along with me.</l>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Shall I go meet the King too Maſter?</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>I Sir, you ſhall attend upon my friend.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>But I pray tell me one thing, is the King a Man or a Woman?</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>He is a Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Spar.</speaker>
+                  <p>Well, I ſhall never love him while I live, for a Coſin of his, the King of Clubs made me looſe ſix pots of Ale, at Mother <hi>Bunches</hi> ifaith.</p>
+               </sp>
+               <sp>
+                  <speaker>Rainborne.</speaker>
+                  <p>Well Sir go along with him.</p>
+                  <stage>Exit Sparrow and Herod.</stage>
+               </sp>
+               <l>Now <hi>Rainborne</hi> glut thy heart with wiſht for joy,</l>
+               <l>O how it glads my ſoul, that I ſhall ſee,</l>
+               <l>my dear loved Father once before I dye!</l>
+               <l>The people flock together all on heaps,</l>
+               <l>Clapping their hands, and crying out for joy,</l>
+               <l>that <hi>Guy</hi> of <hi>Worwick</hi> is come again,</l>
+               <l>and all report it of a certainty,</l>
+               <l>that in the dreadful day of <hi>Wincheſter,</hi>
+               </l>
+               <l>he vanquiſht <hi>Colbron</hi> in a ſingle fight.</l>
+               <stage>Guy groans.</stage>
+               <l>But ſtay, methinks I hear a doleful ſound</l>
+               <l>of a departing man, and ſee here lies</l>
+               <l>an Aged Pilgrime, at the point of death;</l>
+               <l>what art thou Father? prethee ſpeak to me.</l>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>A poor age-withered Creature gentle Son,</l>
+                  <l>that ſtreight muſt yield my due unto my grave,</l>
+                  <pb facs="tcp:56229:23"/>
+                  <l>for age and ſickneſſe now my life will have.</l>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>Alas good Father thou art ſick indeed,</l>
+                  <l>yet if thou canſt but lean upon my Arme,</l>
+                  <l>I'le lead thee to a place where thou ſhalt be</l>
+                  <l>comforted and attended carefully.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>I thank thee Son, but cannot leave this place;</l>
+                  <l>yet if thy thoughts be equal with thy words,</l>
+                  <l>let me requeſt one kindneſſe at thy hands,</l>
+                  <l>it is the laſt that ever I ſhall make.</l>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>Speak freely Father what ſoe're it be,</l>
+                  <l>thy will ſhall be perform'd immediately.</l>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Then unto <hi>Warwick</hi> Caſtle hie thee ſtraight,</l>
+                  <l>enquire for <hi>Phillis Guy</hi> of <hi>Warwicks</hi> Wife,</l>
+                  <l>deliver to her this ſame ring of Gold,</l>
+                  <l>tell her an old door Pilgrime at deaths dore,</l>
+                  <l>did ſend it to her as a recompence,</l>
+                  <l>for her good deeds, to him and many moe,</l>
+                  <l>ſince her dear Lord away from her did go.</l>
+               </sp>
+               <sp>
+                  <speaker>Ramb.</speaker>
+                  <l>I'le give it her, as I have hope of Heaven,</l>
+                  <l>and bring her with me hither preſently;</l>
+                  <l>that with ſweet balmes ſhe may comfort thee,</l>
+                  <l>ſo fare thee well, ſweet heaven thy comfort be.</l>
+                  <stage>Exit.</stage>
+               </sp>
+               <sp>
+                  <speaker>Guy.</speaker>
+                  <l>Go on in peace, my peace with heaven is made,</l>
+                  <l>thou goeſt to carry ſuch a doleful gift,</l>
+                  <l>as with the ſight will kill my <hi>Phillis</hi> heart;</l>
+                  <l>for when I took my leave to go from her,</l>
+                  <l>that ring ſhe gave me as a pledge of love;</l>
+                  <l>which if I ſee quoth ſhe, and thou not by,</l>
+                  <l>
+                     <hi>Phillis</hi> will grieving weep, and weeping dye.</l>
+                  <l>O did ſhe know her <hi>VVarwicks</hi> death ſo nigh,</l>
+                  <l>and he ſo ne're in a cold Cave to lye;</l>
+                  <l>ſhe ſoon would come and take her laſt adue</l>
+                  <l>of him, whoſe love to her hath ſtill been true;</l>
+                  <l>but ſhall I dye before I ſee her face?</l>
+                  <l>I feel death ceazing on my heart already;</l>
+                  <l>O my ſweet Saviour ſtrengthen me this hour,</l>
+                  <l>and in my weakneſſe ſhew thy heavenly power,</l>
+                  <l>I come, I come, to thee ſweet Chriſt I flye,</l>
+                  <pb facs="tcp:56229:23"/>
+                  <l>ſave my poor ſoul, let my vile body dye.</l>
+                  <stage>He dies.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Phillis <hi>and</hi> Rainborne.</stage>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>O haſt thee Son, and bring me to the man</l>
+                  <l>that ſent this Ring, alas we are undone!</l>
+                  <l>it is thy Father Boy, good <hi>Rainborne</hi> run.</l>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>You tell me wonders that amaze my ſoul,</l>
+                  <l>it cannot be my Father that ſhould lye,</l>
+                  <l>in his own Country and his wife ſo nigh.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>This is the Ring I gave him, which quoth he,</l>
+                  <l>nothing but death ſhall ever part from me.</l>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>See where he lies even yielding up the ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <p>If it be he, he hath a mould Wart underneath his Ear.</p>
+                  <stage>She looks under his Ear, and cries out, they both kneel to him.</stage>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <p>View him good Mother, ſatisfie your mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <p>It is my Husband, Oh my deareſt Lord!</p>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>O my dear Father ſpeak unto thy Son,</l>
+                  <l>but he is dead, and we are quite undone.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>O gentle <hi>Warwick,</hi> ſpeak one word to me,</l>
+                  <l>I am thy wife that ſeven and twenty years</l>
+                  <l>bewail'd thy abſence even with woful Tears;</l>
+                  <l>ſpeak, ſpeak, if any ſpark of life remains,</l>
+                  <l>I'le think one look enough for all thy pains.</l>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>See Mother now he looks upon us both,</l>
+                  <l>and ſee how faſt he holds my Fingers now;</l>
+                  <l>ſomething he wants, behold he maketh ſignes,</l>
+                  <l>that we with our two hands ſhould cloſe his eyes.</l>
+                  <l>Now it is done, ſee how he faints and dies.</l>
+               </sp>
+               <sp>
+                  <speaker>Phillis.</speaker>
+                  <l>O break my heart, that I with him may dye,</l>
+                  <l>that in one grave our bodies both may lye.</l>
+               </sp>
+               <sp>
+                  <speaker>Ram.</speaker>
+                  <l>The King is coming, good mother be content;</l>
+                  <l>O heavy is my heart, with too much grief is ſpent.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Athelſtone, Herod <hi>with others.</hi>
+               </stage>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>Sir <hi>Herod</hi> of <hi>Arden</hi> this is the time and place,</l>
+                  <l>that I appointed for to meet Sir <hi>Guy,</hi>
+                  </l>
+                  <pb facs="tcp:56229:24"/>
+                  <l>and do him honour as he hath deſerv'd,</l>
+                  <l>but yet we have not heard where he remains.</l>
+               </sp>
+               <sp>
+                  <speaker>Herod.</speaker>
+                  <l>See where Sir <hi>Rainborne</hi> and fair <hi>Phillis</hi> ſits,</l>
+                  <l>and in their Arms an aged Pilgrime lies.</l>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>And famous <hi>Warwick</hi> in this Pilgrime dies;</l>
+                  <l>ſee mighty King, and worthy Lords behold</l>
+                  <l>the fleſh and blood of him, that when he lived,</l>
+                  <l>was the moſt famous Knight that e're drew ſword,</l>
+                  <l>or clad his loins in compleat Arms of ſteel.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>O you have broke my heart with this ſad news!</l>
+                  <l>i'ſt poſſible my deareſt friend Sir <hi>Guy,</hi>
+                  </l>
+                  <l>ſhould end his life, in ſuch an unconth place.</l>
+                  <l>O cruel fate! O woful deſtiny!</l>
+                  <l>ariſe fair Lady, ſorrow helpeth not;</l>
+                  <l>for if that ſighs, or tears, could ought avail,</l>
+                  <l>to bring his Heaven bred ſoul to Earth again;</l>
+                  <l>my Kingly tears ſhould day and night be ſpent,</l>
+                  <l>to fetch it thence, but Heaven doth that prevent.</l>
+               </sp>
+               <sp>
+                  <speaker>Rain.</speaker>
+                  <l>Your Tears, nor mine, dear Mother can prevail,</l>
+                  <l>nothing at all, Heaven hath appointed this;</l>
+                  <l>Angells conduct his ſoul to endleſſe bliſſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Athelſt.</speaker>
+                  <l>
+                     <hi>Rainborne</hi> 'tis true, ſweet <hi>Phillis</hi> weep no more,</l>
+                  <l>lets comfort all our ſelves with thinking thus,</l>
+                  <l>we muſt to him, but hee'l ne're come to us;</l>
+                  <l>but in the honour of his worthy name,</l>
+                  <l>the ſhield-bone of the bore of <hi>Calladon,</hi>
+                  </l>
+                  <l>ſhall be hang'd up at <hi>Coventries</hi> great Gate;</l>
+                  <l>the Ribs of the Dun Cow of <hi>Dunſmore</hi> Heath,</l>
+                  <l>in <hi>Warwick</hi> Caſtle for a monument;</l>
+                  <l>and on his Cave where he hath left his life,</l>
+                  <l>a ſtately Hermitage I will erect,</l>
+                  <l>in honour of Sir <hi>Guy</hi> of <hi>VVarwicks</hi> Name,</l>
+                  <l>paſſe mournfully along, wee'l follow all</l>
+                  <l>his bloodleſſe Corps, and heavy funeral.</l>
+                  <stage>
+                     <hi>Four takes the body of</hi> Guy, <hi>the reſt follow.</hi>
+                  </stage>
+               </sp>
+               <stage>
+                  <pb facs="tcp:56229:24" rendition="simple:additions"/>Enter <hi>Time</hi> with the <hi>Epilogue.</hi>
+               </stage>
+               <sp>
+                  <l>
+                     <hi>THus</hi> Time <hi>concludes this dolent Hiſtory,</hi>
+                  </l>
+                  <l>
+                     <hi>And ends this</hi> Scene <hi>with</hi> GUY <hi>of</hi> Warwicks <hi>Death;</hi>
+                  </l>
+                  <l>
+                     <hi>So what is it but</hi> Time <hi>can bring to paſſe?</hi>
+                  </l>
+                  <l>Time <hi>layes up Treaſure where ther's Vertue ſcant,</hi>
+                  </l>
+                  <l>
+                     <hi>And gives the ſilly Fool when wiſe Men want:</hi>
+                  </l>
+                  <l>
+                     <hi>Both Poor and Rich confeſſe my power Divine,</hi>
+                  </l>
+                  <l>
+                     <hi>And every one doth ſay, make much of</hi> Time,</l>
+                  <l>
+                     <hi>Through the whole World, while the world was</hi> Time <hi>rangeth,</hi>
+                  </l>
+                  <l>
+                     <hi>And 'tis mens manners, and not,</hi> Time <hi>that changeth.</hi>
+                  </l>
+                  <l>
+                     <hi>O you whoſe Souls look for Eternity,</hi>
+                  </l>
+                  <l>
+                     <hi>Reſt in the peace of perpetuity,</hi>
+                  </l>
+                  <l>
+                     <hi>And kindly grant to this requeſt of mine;</hi>
+                  </l>
+                  <l>
+                     <hi>For he's but young that writes of this Old</hi> Time.</l>
+                  <l>
+                     <hi>Therefore if this your Eyes or Ears may pleaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>He means to ſhew you better things then theſe.</hi>
+                  </l>
+               </sp>
+               <stage>Exit <hi>Time.</hi>
+               </stage>
+            </div>
+            <trailer>
+               <hi>Finis</hi> GUY <hi>of</hi> WARWICK.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
